@@ -1,0 +1,13 @@
+[21-Sep-2018 10:23:58 US/Eastern] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amenitie/public_html/config/bootstrap.php:137) in /home/amenitie/public_html/classes/controller/FrontController.php on line 819
+[21-Sep-2018 10:23:58 US/Eastern] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amenitie/public_html/config/bootstrap.php:137) in /home/amenitie/public_html/classes/controller/FrontController.php on line 820
+[21-Sep-2018 10:23:58 US/Eastern] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amenitie/public_html/config/bootstrap.php:137) in /home/amenitie/public_html/classes/Tools.php on line 219
+[21-Sep-2018 15:07:44 US/Eastern] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "module:module:pscontactinfopscontactinf"  on line 33 "{* [1][/1] is for a HTML tag. *}"  - Unexpected "* " <-- 
+  thrown in /home/amenitie/public_html/vendor/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 33
+[21-Sep-2018 15:07:48 US/Eastern] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "module:module:pscontactinfopscontactinf"  on line 33 "{* [1][/1] is for a HTML tag. *}"  - Unexpected "* " <-- 
+  thrown in /home/amenitie/public_html/vendor/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 33
+[21-Sep-2018 15:07:50 US/Eastern] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "module:module:pscontactinfopscontactinf"  on line 33 "{* [1][/1] is for a HTML tag. *}"  - Unexpected "* " <-- 
+  thrown in /home/amenitie/public_html/vendor/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 33
+[10-Oct-2018 23:12:20 US/Eastern] PHP Fatal error:  Uncaught  --> Smarty: Template './order-steps.tpl' cannot be relative to template of resource type 'module' <-- 
+  thrown in /home/amenitie/public_html/vendor/smarty/smarty/libs/sysplugins/smarty_internal_resource_file.php on line 44
+[10-Oct-2018 23:12:48 US/Eastern] PHP Fatal error:  Uncaught  --> Smarty: Template './order-steps.tpl' cannot be relative to template of resource type 'module' <-- 
+  thrown in /home/amenitie/public_html/vendor/smarty/smarty/libs/sysplugins/smarty_internal_resource_file.php on line 44
