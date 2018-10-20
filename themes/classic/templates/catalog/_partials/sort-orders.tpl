@@ -30,7 +30,7 @@
     data-toggle="dropdown"
     aria-haspopup="true"
     aria-expanded="false">
-    {if isset($listing.sort_selected)}{$listing.sort_selected}{else}{l s='Select' d='Shop.Theme.Actions'}{/if}
+    {if isset($listing.sort_selected)}{$listing.sort_selected}{else}{l s='Seleccionar' d='Shop.Theme.Actions'}{/if}
     <i class="material-icons float-xs-right">&#xE5C5;</i>
   </button>
   <div class="dropdown-menu">

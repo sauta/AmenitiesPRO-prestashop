@@ -110,7 +110,7 @@
                   {block name='product_pack'}
                     {if $packItems}
                       <section class="product-pack">
-                        <p class="h4">{l s='This pack contains' d='Shop.Theme.Catalog'}</p>
+                        <p class="h4">Este paquete contien</p>
                         {foreach from=$packItems item="product_pack"}
                           {block name='product_miniature'}
                             {include file='catalog/_partials/miniatures/pack-product.tpl' product=$product_pack}
@@ -154,7 +154,7 @@
                          href="#description"
                          role="tab"
                          aria-controls="description"
-                         {if $product.description} aria-selected="true"{/if}>{l s='Description' d='Shop.Theme.Catalog'}</a>
+                         {if $product.description} aria-selected="true"{/if}>Descripción</a>
                     </li>
                   {/if}
                   <li class="nav-item">
@@ -164,7 +164,7 @@
                       href="#product-details"
                       role="tab"
                       aria-controls="product-details"
-                      {if !$product.description} aria-selected="true"{/if}>{l s='Product Details' d='Shop.Theme.Catalog'}</a>
+                      {if !$product.description} aria-selected="true"{/if}>Detalles de producto</a>
                   </li>
                   {if $product.attachments}
                     <li class="nav-item">
@@ -173,7 +173,7 @@
                         data-toggle="tab"
                         href="#attachments"
                         role="tab"
-                        aria-controls="attachments">{l s='Attachments' d='Shop.Theme.Catalog'}</a>
+                        aria-controls="attachments">Adjuntos</a>
                     </li>
                   {/if}
                   {foreach from=$product.extraContent item=extra key=extraKey}
@@ -233,7 +233,7 @@
     {block name='product_accessories'}
       {if $accessories}
         <section class="product-accessories clearfix">
-          <p class="h5 text-uppercase">{l s='You might also like' d='Shop.Theme.Catalog'}</p>
+          <p class="h5 text-uppercase">Tambien podria gustarte</p>
           <div class="products">
             {foreach from=$accessories item="product_accessory"}
               {block name='product_miniature'}

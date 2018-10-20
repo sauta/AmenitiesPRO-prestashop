@@ -11,7 +11,7 @@
             <img src="{$manufacturer_image_url}" class="img img-thumbnail manufacturer-logo" alt="{$product_manufacturer->name}">
           </a>
         {else}
-          <label class="label">{l s='Brand' d='Shop.Theme.Catalog'}</label>
+          <label class="label">{l s='Marca' d='Shop.Theme.Catalog'}</label>
           <span>
             <a href="{$product_brand_url}">{$product_manufacturer->name}</a>
           </span>
@@ -20,7 +20,7 @@
     {/if}
     {if isset($product.reference_to_display)}
       <div class="product-reference">
-        <label class="label">{l s='Reference' d='Shop.Theme.Catalog'} </label>
+        <label class="label">{l s='Referencia' d='Shop.Theme.Catalog'} </label>
         <span itemprop="sku">{$product.reference_to_display}</span>
       </div>
     {/if}
@@ -29,7 +29,7 @@
   {block name='product_quantities'}
     {if $product.show_quantities}
       <div class="product-quantities">
-        <label class="label">{l s='In stock' d='Shop.Theme.Catalog'}</label>
+        <label class="label">{l s='En stock' d='Shop.Theme.Catalog'}</label>
         <span data-stock="{$product.quantity}" data-allow-oosp="{$product.allow_oosp}">{$product.quantity} {$product.quantity_label}</span>
       </div>
     {/if}
@@ -38,7 +38,7 @@
   {block name='product_availability_date'}
     {if $product.availability_date}
       <div class="product-availability-date">
-        <label>{l s='Availability date:' d='Shop.Theme.Catalog'} </label>
+        <label>{l s='Fecha disponible:' d='Shop.Theme.Catalog'} </label>
         <span>{$product.availability_date}</span>
       </div>
     {/if}
@@ -53,7 +53,7 @@
   {block name='product_features'}
     {if $product.grouped_features}
       <section class="product-features">
-        <p class="h6">{l s='Data sheet' d='Shop.Theme.Catalog'}</p>
+        <p class="h6">{l s='Ficha de datos ' d='Shop.Theme.Catalog'}</p>
         <dl class="data-sheet">
           {foreach from=$product.grouped_features item=feature}
             <dt class="name">{$feature.name}</dt>
@@ -68,7 +68,7 @@
   {block name='product_specific_references'}
     {if isset($product.specific_references)}
       <section class="product-features">
-        <p class="h6">{l s='Specific References' d='Shop.Theme.Catalog'}</p>
+        <p class="h6">{l s='Referencias específicas' d='Shop.Theme.Catalog'}</p>
           <dl class="data-sheet">
             {foreach from=$product.specific_references item=reference key=key}
               <dt class="name">{$key}</dt>
@@ -82,7 +82,7 @@
   {block name='product_condition'}
     {if $product.condition}
       <div class="product-condition">
-        <label class="label">{l s='Condition' d='Shop.Theme.Catalog'} </label>
+        <label class="label">{l s='Condición' d='Shop.Theme.Catalog'} </label>
         <link itemprop="itemCondition" href="{$product.condition.schema_url}"/>
         <span>{$product.condition.label}</span>
       </div>

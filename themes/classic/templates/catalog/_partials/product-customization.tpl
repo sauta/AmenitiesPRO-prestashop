@@ -25,9 +25,8 @@
 <section class="product-customization">
   {if !$configuration.is_catalog}
     <div class="card card-block">
-      <p class="h4 card-title">{l s='Product customization' d='Shop.Theme.Catalog'}</p>
-      {l s='Don\'t forget to save your customization to be able to add to cart' d='Shop.Forms.Help'}
-
+      <p class="h4 card-title">{l s='Personalización del producto' d='Shop.Theme.Catalog'}</p>
+      {l s = 'No olvide guardar su personalización para poder agregar al carrito' d = 'Shop.Forms.Help'}
       {block name='product_customization_form'}
         <form method="post" action="{$product.url}" enctype="multipart/form-data">
           <ul class="clearfix">
