@@ -44,7 +44,7 @@
 
         <p>
           <a class="collapse-button promo-code-button" data-toggle="collapse" href="#promo-code" aria-expanded="false" aria-controls="promo-code">
-            {l s='Have a promo code?' d='Shop.Theme.Checkout'}
+            {l s='Tienes un codigo de promoción?' d='Shop.Theme.Checkout'}
           </a>
         </p>
 
@@ -53,8 +53,8 @@
             <form action="{$urls.pages.cart}" data-link-action="add-voucher" method="post">
               <input type="hidden" name="token" value="{$static_token}">
               <input type="hidden" name="addDiscount" value="1">
-              <input class="promo-input" type="text" name="discount_name" placeholder="{l s='Promo code' d='Shop.Theme.Checkout'}">
-              <button type="submit" class="btn btn-primary"><span>{l s='Add' d='Shop.Theme.Actions'}</span></button>
+              <input class="promo-input" type="text" name="discount_name" placeholder="{l s='Codigo de promoción' d='Shop.Theme.Checkout'}">
+              <button type="submit" class="btn btn-primary"><span>{l s='Añadir' d='Shop.Theme.Actions'}</span></button>
             </form>
           {/block}
 
@@ -67,7 +67,7 @@
 
         {if $cart.discounts|count > 0}
           <p class="block-promo promo-highlighted">
-            {l s='Take advantage of our exclusive offers:' d='Shop.Theme.Actions'}
+            {l s='Aprovecha nuestras ofertas exclusivas:' d='Shop.Theme.Actions'}
           </p>
           <ul class="js-discount card-block promo-discounts">
           {foreach from=$cart.discounts item=discount}

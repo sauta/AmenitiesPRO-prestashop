@@ -33,16 +33,16 @@
     >
 
       {if !$use_same_address}
-        <h2 class="h4">{l s='Shipping Address' d='Shop.Theme.Checkout'}</h2>
+        <h2 class="h4">{l s='Dirección de Envío' d='Shop.Theme.Checkout'}</h2>
       {/if}
 
       {if $use_same_address && !$cart.is_virtual}
         <p>
-          {l s='The selected address will be used both as your personal address (for invoice) and as your delivery address.' d='Shop.Theme.Checkout'}
+          {l s='La dirección seleccionada se utilizará como su dirección personal (para la factura) y como su dirección de despacho.' d='Shop.Theme.Checkout'}
         </p>
       {elseif $use_same_address && $cart.is_virtual}
         <p>
-          {l s='The selected address will be used as your personal address (for invoice).' d='Shop.Theme.Checkout'}
+          {l s='La dirección seleccionada se utilizará como su dirección personal (para la factura).' d='Shop.Theme.Checkout'}
         </p>
       {/if}
 
@@ -69,17 +69,17 @@
         {if isset($delivery_address_error)}
           <p class="alert alert-danger js-address-error" name="alert-delivery" id="id-failure-address-{$delivery_address_error.id_address}">{$delivery_address_error.exception}</p>
         {else}
-          <p class="alert alert-danger js-address-error" name="alert-delivery" style="display: none">{l s="Your address is incomplete, please update it." d="Shop.Notifications.Error"}</p>
+          <p class="alert alert-danger js-address-error" name="alert-delivery" style="display: none">{l s="Tu dirección está incompleta, por favor actualícela." d="Shop.Notifications.Error"}</p>
         {/if}
 
         <p class="add-address">
-          <a href="{$new_address_delivery_url}"><i class="material-icons">&#xE145;</i>{l s='add new address' d='Shop.Theme.Actions'}</a>
+          <a href="{$new_address_delivery_url}"><i class="material-icons">&#xE145;</i>{l s='agregar nueva dirección' d='Shop.Theme.Actions'}</a>
         </p>
 
         {if $use_same_address && !$cart.is_virtual}
           <p>
             <a data-link-action="different-invoice-address" href="{$use_different_address_url}">
-              {l s='Billing address differs from shipping address' d='Shop.Theme.Checkout'}
+              {l s='La dirección de facturación difiere de la dirección de envío' d='Shop.Theme.Checkout'}
             </a>
           </p>
         {/if}
@@ -88,7 +88,7 @@
 
       {if !$use_same_address}
 
-        <h2 class="h4">{l s='Your Invoice Address' d='Shop.Theme.Checkout'}</h2>
+        <h2 class="h4">{l s='Tu dirección de factura' d='Shop.Theme.Checkout'}</h2>
 
         {if $show_invoice_address_form}
           <div id="invoice-address">
@@ -113,11 +113,11 @@
           {if isset($invoice_address_error)}
             <p class="alert alert-danger js-address-error" name="alert-invoice" id="id-failure-address-{$invoice_address_error.id_address}">{$invoice_address_error.exception}</p>
           {else}
-            <p class="alert alert-danger js-address-error" name="alert-invoice" style="display: none">{l s="Your address is incomplete, please update it." d="Shop.Notifications.Error"}</p>
+            <p class="alert alert-danger js-address-error" name="alert-invoice" style="display: none">{l s="Su dirección está incompleta, por favor actualícela." d="Shop.Notifications.Error"}</p>
           {/if}
 
           <p class="add-address">
-            <a href="{$new_address_invoice_url}"><i class="material-icons">&#xE145;</i>{l s='add new address' d='Shop.Theme.Actions'}</a>
+            <a href="{$new_address_invoice_url}"><i class="material-icons">&#xE145;</i>{l s='agregar nueva dirección' d='Shop.Theme.Actions'}</a>
           </p>
         {/if}
 
@@ -126,7 +126,7 @@
       {if !$form_has_continue_button}
         <div class="clearfix">
           <button type="submit" class="btn btn-primary continue float-xs-right" name="confirm-addresses" value="1">
-              {l s='Continue' d='Shop.Theme.Actions'}
+              {l s='Continuar' d='Shop.Theme.Actions'}
           </button>
           <input type="hidden" id="not-valid-addresses" value="{$not_valid_addresses}">
         </div>

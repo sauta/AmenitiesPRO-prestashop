@@ -5,7 +5,7 @@
   {hook h='displayPaymentTop'}
 
   {if $is_free}
-    <p>{l s='No payment needed for this order' d='Shop.Theme.Checkout'}</p>
+    <p>{l s='No se requiere pago para este pedido.' d='Shop.Theme.Checkout'}</p>
   {/if}
   <div class="payment-options {if $is_free}hidden-xs-up{/if}">
     {foreach from=$payment_options item="module_options"}
@@ -28,10 +28,10 @@
             {* This is the way an option should be selected when Javascript is disabled *}
             <form method="GET" class="ps-hidden-by-js">
               {if $option.id === $selected_payment_option}
-                {l s='Selected' d='Shop.Theme.Checkout'}
+                {l s='Seleccionado' d='Shop.Theme.Checkout'}
               {else}
                 <button class="ps-hidden-by-js" type="submit" name="select_payment_option" value="{$option.id}">
-                  {l s='Choose' d='Shop.Theme.Actions'}
+                  {l s='Escoger' d='Shop.Theme.Actions'}
                 </button>
               {/if}
             </form>
@@ -72,7 +72,7 @@
         </div>
       {/foreach}
     {foreachelse}
-      <p class="alert alert-danger">{l s='Unfortunately, there are no payment method available.' d='Shop.Theme.Checkout'}</p>
+      <p class="alert alert-danger">{l s='Desafortunadamente, no hay ningún método de pago disponible.' d='Shop.Theme.Checkout'}</p>
     {/foreach}
   </div>
 
@@ -82,7 +82,7 @@
          because it makes ensuring they were checked very tricky and overcomplicates
          the template. Might change later.
       *}
-      {l s='By confirming the order, you certify that you have read and agree with all of the conditions below:' d='Shop.Theme.Checkout'}
+      {l s='Al confirmar el pedido, usted certifica que ha leído y está de acuerdo con todas las condiciones a continuación:' d='Shop.Theme.Checkout'}
     </p>
 
     <form id="conditions-to-approve" method="GET">
@@ -119,12 +119,12 @@
   <div id="payment-confirmation">
     <div class="ps-shown-by-js">
       <button type="submit" {if !$selected_payment_option} disabled {/if} class="btn btn-primary center-block">
-        {l s='Order with an obligation to pay' d='Shop.Theme.Checkout'}
+        {l s='Orden con obligación de pago.' d='Shop.Theme.Checkout'}
       </button>
       {if $show_final_summary}
         <article class="alert alert-danger mt-2 js-alert-payment-conditions" role="alert" data-alert="danger">
           {l
-            s='Please make sure you\'ve chosen a [1]payment method[/1] and accepted the [2]terms and conditions[/2].'
+            s='Por favor, asegúrese de que ha elegido un [1]método de pago[/1] y aceptó los [2]términos y Condiciones[/2].'
             sprintf=[
               '[1]' => '<a href="#checkout-payment-step">',
               '[/1]' => '</a>',
@@ -138,7 +138,7 @@
     </div>
     <div class="ps-hidden-by-js">
       {if $selected_payment_option and $all_conditions_approved}
-        <label for="pay-with-{$selected_payment_option}">{l s='Order with an obligation to pay' d='Shop.Theme.Checkout'}</label>
+        <label for="pay-with-{$selected_payment_option}">{l s='Orden con obligación de pago.' d='Shop.Theme.Checkout'}</label>
       {/if}
     </div>
   </div>
@@ -148,7 +148,7 @@
   <div class="modal fade" id="modal">
     <div class="modal-dialog" role="document">
       <div class="modal-content">
-        <button type="button" class="close" data-dismiss="modal" aria-label="{l s='Close' d='Shop.Theme.Global'}">
+        <button type="button" class="close" data-dismiss="modal" aria-label="{l s='Cerrar' d='Shop.Theme.Global'}">
           <span aria-hidden="true">&times;</span>
         </button>
         <div class="js-modal-content"></div>

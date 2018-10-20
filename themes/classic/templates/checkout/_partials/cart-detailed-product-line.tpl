@@ -72,7 +72,7 @@
       <br>
       {block name='cart_detailed_product_line_customization'}
         {foreach from=$product.customizations item="customization"}
-          <a href="#" data-toggle="modal" data-target="#product-customizations-modal-{$customization.id_customization}">{l s='Product customization' d='Shop.Theme.Catalog'}</a>
+          <a href="#" data-toggle="modal" data-target="#product-customizations-modal-{$customization.id_customization}">{l s='Personalización del producto' d='Shop.Theme.Catalog'}</a>
           <div class="modal fade customization-modal" id="product-customizations-modal-{$customization.id_customization}" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog" role="document">
               <div class="modal-content">
@@ -80,7 +80,7 @@
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                   </button>
-                  <h4 class="modal-title">{l s='Product customization' d='Shop.Theme.Catalog'}</h4>
+                  <h4 class="modal-title">{l s='Personalización del producto' d='Shop.Theme.Catalog'}</h4>
                 </div>
                 <div class="modal-body">
                   {foreach from=$customization.fields item="field"}
@@ -137,7 +137,7 @@
             <span class="product-price">
               <strong>
                 {if isset($product.is_gift) && $product.is_gift}
-                  <span class="gift">{l s='Gift' d='Shop.Theme.Checkout'}</span>
+                  <span class="gift">{l s='Regalo' d='Shop.Theme.Checkout'}</span>
                 {else}
                   {$product.total}
                 {/if}

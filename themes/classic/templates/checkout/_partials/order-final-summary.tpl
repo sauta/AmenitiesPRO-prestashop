@@ -25,15 +25,15 @@
 <section id="order-summary-content" class="page-content page-order-confirmation">
   <div class="row">
     <div class="col-md-12">
-      <h4 class="h4 black">{l s='Please check your order before payment' d='Shop.Theme.Checkout'}</h4>
+      <h4 class="h4 black">{l s='Por favor revise su orden antes de pagar' d='Shop.Theme.Checkout'}</h4>
     </div>
   </div>
 
   <div class="row">
     <div class="col-md-12">
       <h4 class="h4">
-      {l s='Addresses' d='Shop.Theme.Checkout'}
-        <span class="step-edit step-to-addresses js-edit-addresses"><i class="material-icons edit">mode_edit</i> {l s='edit' d='Shop.Theme.Actions'}</span>
+      {l s='Direcciones' d='Shop.Theme.Checkout'}
+        <span class="step-edit step-to-addresses js-edit-addresses"><i class="material-icons edit">mode_edit</i> {l s='editar' d='Shop.Theme.Actions'}</span>
       </h4>
     </div>
   </div>
@@ -41,7 +41,7 @@
     <div class="col-md-6">
       <div class="card noshadow">
         <div class="card-block">
-          <h4 class="h5 black addresshead">{l s='Your Delivery Address' d='Shop.Theme.Checkout'}</h4>
+          <h4 class="h5 black addresshead">{l s='Tu dirección de despacho' d='Shop.Theme.Checkout'}</h4>
           {$customer.addresses[$cart.id_address_delivery]['formatted'] nofilter}
         </div>
       </div>
@@ -49,7 +49,7 @@
     <div class="col-md-6">
       <div class="card noshadow">
         <div class="card-block">
-          <h4 class="h5 black addresshead">{l s='Your Invoice Address' d='Shop.Theme.Checkout'}</h4>
+          <h4 class="h5 black addresshead">{l s='Su dirección de factura' d='Shop.Theme.Checkout'}</h4>
           {$customer.addresses[$cart.id_address_invoice]['formatted'] nofilter}
         </div>
       </div>
@@ -59,8 +59,8 @@
   <div class="row">
     <div class="col-md-12">
       <h4 class="h4">
-      {l s='Shipping Method' d='Shop.Theme.Checkout'}
-        <span class="step-edit step-to-delivery js-edit-delivery"><i class="material-icons edit">mode_edit</i> {l s='edit' d='Shop.Theme.Actions'}</span>
+      {l s='Metodo de envío' d='Shop.Theme.Checkout'}
+        <span class="step-edit step-to-delivery js-edit-delivery"><i class="material-icons edit">mode_edit</i> {l s='editar' d='Shop.Theme.Actions'}</span>
       </h4>
 
       <div class="col-md-12 summary-selected-carrier">

@@ -31,7 +31,7 @@
     </div>
     <div class="brand-products">
       <a href="{$brand.url}">{$brand.nb_products}</a>
-      <a href="{$brand.url}">{l s='View products' d='Shop.Theme.Actions'}</a>
+      <a href="{$brand.url}">{l s='Vista de productos' d='Shop.Theme.Actions'}</a>
     </div>
   </li>
 {/block}

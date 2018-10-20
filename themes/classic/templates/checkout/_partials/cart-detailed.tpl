@@ -36,7 +36,7 @@
       {/foreach}
     </ul>
     {else}
-      <span class="no-items">{l s='There are no more items in your cart' d='Shop.Theme.Checkout'}</span>
+      <span class="no-items">{l s='No hay más artículos en su carrito' d='Shop.Theme.Checkout'}</span>
     {/if}
   </div>
 {/block}

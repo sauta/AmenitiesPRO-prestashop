@@ -45,7 +45,7 @@
             {if $product.customizations|count}
               {foreach from=$product.customizations item="customization"}
                 <div class="customizations">
-                  <a href="#" data-toggle="modal" data-target="#product-customizations-modal-{$customization.id_customization}">{l s='Product customization' d='Shop.Theme.Catalog'}</a>
+                  <a href="#" data-toggle="modal" data-target="#product-customizations-modal-{$customization.id_customization}">{l s='Personalización de producto' d='Shop.Theme.Catalog'}</a>
                 </div>
                 <div class="modal fade customization-modal" id="product-customizations-modal-{$customization.id_customization}" tabindex="-1" role="dialog" aria-hidden="true">
                   <div class="modal-dialog" role="document">
@@ -54,7 +54,7 @@
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                           <span aria-hidden="true">&times;</span>
                         </button>
-                        <h4 class="modal-title">{l s='Product customization' d='Shop.Theme.Catalog'}</h4>
+                        <h4 class="modal-title">{l s='Personalización de producto' d='Shop.Theme.Catalog'}</h4>
                       </div>
                       <div class="modal-body">
                         {foreach from=$customization.fields item="field"}

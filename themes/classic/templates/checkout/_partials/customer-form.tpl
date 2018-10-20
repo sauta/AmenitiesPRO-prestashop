@@ -27,9 +27,9 @@
 {block "form_field"}
   {if $field.name === 'password' and $guest_allowed}
       <p>
-        <span class="font-weight-bold">{l s='Create an account' d='Shop.Theme.Checkout'}</span> <span class="font-italic">{l s='(optional)' d='Shop.Theme.Checkout'}</span>
+        <span class="font-weight-bold">{l s='Crear una cuenta' d='Shop.Theme.Checkout'}</span> <span class="font-italic">{l s='(opcional)' d='Shop.Theme.Checkout'}</span>
         <br>
-        <span class="text-muted">{l s='And save time on your next order!' d='Shop.Theme.Checkout'}</span>
+        <span class="text-muted">{l s='Y ahorra tiempo en tu próximo pedido.!' d='Shop.Theme.Checkout'}</span>
       </p>
       {$smarty.block.parent}
   {else}
@@ -45,6 +45,6 @@
       type="submit"
       value="1"
     >
-        {l s='Continue' d='Shop.Theme.Actions'}
+        {l s='Continuar' d='Shop.Theme.Actions'}
     </button>
 {/block}

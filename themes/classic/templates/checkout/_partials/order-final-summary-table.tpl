@@ -28,9 +28,9 @@
 <div id="order-items" class="col-md-12">
   <h3 class="card-title h3">
     {if $products_count == 1}
-       {l s='%product_count% item in your cart' sprintf=['%product_count%' => $products_count] d='Shop.Theme.Checkout'}
+       {l s='%product_count% articulo(s) en tu carrito' sprintf=['%product_count%' => $products_count] d='Shop.Theme.Checkout'}
     {else}
-       {l s='%products_count% items in your cart' sprintf=['%products_count%' => $products_count] d='Shop.Theme.Checkout'}
+       {l s='%products_count% articulo(s) en tu carrito' sprintf=['%products_count%' => $products_count] d='Shop.Theme.Checkout'}
     {/if}
   	<a href="{url entity=cart params=['action' => 'show']}"><span class="step-edit"><i class="material-icons edit">mode_edit</i> {l s='edit' d='Shop.Theme.Actions'}</span></a>
   </h3>

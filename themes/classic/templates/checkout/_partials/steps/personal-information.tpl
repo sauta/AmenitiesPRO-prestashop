@@ -5,7 +5,7 @@
 
     <p class="identity">
       {* [1][/1] is for a HTML tag. *}
-      {l s='Connected as [1]%firstname% %lastname%[/1].'
+      {l s='Conectado como [1]%firstname% %lastname%[/1].'
         d='Shop.Theme.Customeraccount'
         sprintf=[
           '[1]' => "<a href='{$urls.pages.identity}'>",
@@ -18,7 +18,7 @@
     <p>
       {* [1][/1] is for a HTML tag. *}
       {l
-        s='Not you? [1]Log out[/1]'
+        s='¿No eres tu? [1]Cerrar sesión[/1]'
         d='Shop.Theme.Customeraccount'
         sprintf=[
         '[1]' => "<a href='{$urls.actions.logout}'>",
@@ -27,7 +27,7 @@
       }
     </p>
     {if !isset($empty_cart_on_logout) || $empty_cart_on_logout}
-      <p><small>{l s='If you sign out now, your cart will be emptied.' d='Shop.Theme.Checkout'}</small></p>
+      <p><small>{l s='Si te desconectas ahora, tu carrito se vaciará.' d='Shop.Theme.Checkout'}</small></p>
     {/if}
 
   {else}
@@ -43,9 +43,9 @@
           {if !$show_login_form} aria-selected="true"{/if}
           >
           {if $guest_allowed}
-            {l s='Order as a guest' d='Shop.Theme.Checkout'}
+            {l s='Ordenar como invitado' d='Shop.Theme.Checkout'}
           {else}
-            {l s='Create an account' d='Shop.Theme.Customeraccount'}
+            {l s='Crea una cuenta' d='Shop.Theme.Customeraccount'}
           {/if}
         </a>
       </li>
@@ -64,7 +64,7 @@
           aria-controls="checkout-login-form"
           {if $show_login_form} aria-selected="true"{/if}
         >
-          {l s='Sign in' d='Shop.Theme.Actions'}
+          {l s='Registrarse' d='Shop.Theme.Actions'}
         </a>
       </li>
     </ul>

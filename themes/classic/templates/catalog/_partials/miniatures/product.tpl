@@ -58,7 +58,7 @@
               {if $product.has_discount}
                 {hook h='displayProductPriceBlock' product=$product type="old_price"}
 
-                <span class="sr-only">{l s='Regular price' d='Shop.Theme.Catalog'}</span>
+                <span class="sr-only">{l s='Precio regular' d='Shop.Theme.Catalog'}</span>
                 <span class="regular-price">{$product.regular_price}</span>
                 {if $product.discount_type === 'percentage'}
                   <span class="discount-percentage discount-product">{$product.discount_percentage}</span>
@@ -69,7 +69,7 @@
 
               {hook h='displayProductPriceBlock' product=$product type="before_price"}
 
-              <span class="sr-only">{l s='Price' d='Shop.Theme.Catalog'}</span>
+              <span class="sr-only">{l s='Precio' d='Shop.Theme.Catalog'}</span>
               <span itemprop="price" class="price">{$product.price}</span>
 
               {hook h='displayProductPriceBlock' product=$product type='unit_price'}
@@ -95,7 +95,7 @@
       <div class="highlighted-informations{if !$product.main_variants} no-variants{/if} hidden-sm-down">
         {block name='quick_view'}
           <a class="quick-view" href="#" data-link-action="quickview">
-            <i class="material-icons search">&#xE8B6;</i> {l s='Quick view' d='Shop.Theme.Actions'}
+            <i class="material-icons search">&#xE8B6;</i> {l s='Vista rapida' d='Shop.Theme.Actions'}
           </a>
         {/block}
 
