@@ -1,7 +1,7 @@
 {extends file='customer/page.tpl'}
 
 {block name='page_title'}
-  <h1 class="h1">{l s='Return details' d='Shop.Theme.Customeraccount'}</h1>
+  <h1 class="h1">{l s='Detalles de retorno' d='Shop.Theme.Customeraccount'}</h1>
 {/block}
 
 {block name='page_content'}
@@ -10,20 +10,20 @@
       <div class="card-block">
         <p>
           <strong>{l
-            s='%number% on %date%'
+            s='%number% en %date%'
             d='Shop.Theme.Customeraccount'
             sprintf=['%number%' => $return.return_number, '%date%' => $return.return_date]}
           </strong>
         </p>
-        <p>{l s='We have logged your return request.' d='Shop.Theme.Customeraccount'}</p>
+        <p>{l s='Hemos registrado su solicitud de devolución.' d='Shop.Theme.Customeraccount'}</p>
         <p>{l
-          s='Your package must be returned to us within %number% days of receiving your order.'
+          s='Su paquete debe ser devuelto dentro de %number% días después de recibir su pedido.'
           d='Shop.Theme.Customeraccount'
           sprintf=['%number%' => $configuration.number_of_days_for_return]}</p>
         <p>
           {* [1][/1] is for a HTML tag. *}
           {l
-            s='The current status of your merchandise return is: [1] %status% [/1]'
+            s='El estado actual de su devolución de mercancía es: [1] %status% [/1]'
             d='Shop.Theme.Customeraccount'
             sprintf=[
               '[1]' => '<strong>',
@@ -32,12 +32,12 @@
             ]
           }
         </p>
-        <p>{l s='List of items to be returned:' d='Shop.Theme.Customeraccount'}</p>
+        <p>{l s='Lista de artículos a devolver:' d='Shop.Theme.Customeraccount'}</p>
         <table class="table table-striped table-bordered">
           <thead class="thead-default">
             <tr>
-              <th>{l s='Product' d='Shop.Theme.Catalog'}</th>
-              <th>{l s='Quantity' d='Shop.Theme.Checkout'}</th>
+              <th>{l s='Producto' d='Shop.Theme.Catalog'}</th>
+              <th>{l s='Cantidad' d='Shop.Theme.Checkout'}</th>
             </tr>
           </thead>
           <tbody>
@@ -47,7 +47,7 @@
                 <strong>{$product.product_name}</strong>
                 {if $product.product_reference}
                   <br />
-                  {l s='Reference' d='Shop.Theme.Catalog'}: {$product.product_reference}
+                  {l s='Referencia' d='Shop.Theme.Catalog'}: {$product.product_reference}
                 {/if}
                 {if $product.customizations}
                   {foreach from=$product.customizations item="customization"}
@@ -61,7 +61,7 @@
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                               <span aria-hidden="true">&times;</span>
                             </button>
-                            <h4 class="modal-title">{l s='Product customization' d='Shop.Theme.Catalog'}</h4>
+                            <h4 class="modal-title">{l s='Personalización del producto' d='Shop.Theme.Catalog'}</h4>
                           </div>
                           <div class="modal-body">
                             {foreach from=$customization.fields item="field"}
@@ -112,12 +112,12 @@
         <h3 class="card-title h3">{l s='Reminder' d='Shop.Theme.Customeraccount'}</h3>
         <p class="card-text">
           {l
-            s='All merchandise must be returned in its original packaging and in its original state.'
+            s='Toda la mercancía debe devolverse en su embalaje original y en su estado original.'
             d='Shop.Theme.Customeraccount'
           }<br>
           {* [1][/1] is for a HTML tag. *}
           {l
-            s='Please print out the [1]returns form[/1] and include it with your package.'
+            s='Imprima el [1]formulario de devoluciones[/1] e inclúyalo con su paquete.'
             d='Shop.Theme.Customeraccount'
             sprintf=[
               '[1]' => '<a href="'|cat:$return.print_url|cat:'">',
@@ -127,7 +127,7 @@
           <br>
           {* [1][/1] is for a HTML tag. *}
           {l
-            s='Please check the [1]returns form[/1] for the correct address.'
+            s='Por favor revise el [1]formulario de devoluciones[/1] para la dirección correcta.'
             d='Shop.Theme.Customeraccount'
             sprintf=[
               '[1]' => '<a href="'|cat:$return.print_url|cat:'">',
@@ -137,17 +137,17 @@
         </p>
         <p class="card-text">
           {l
-            s='When we receive your package, we will notify you by email. We will then begin processing order reimbursement.'
+            s='Cuando recibamos su paquete, se lo notificaremos por correo electrónico. Entonces comenzaremos a procesar el reembolso de la orden.'
             d='Shop.Theme.Customeraccount'
           }<br>
           <a href="{$urls.pages.contact}">
             {l
-              s='Please let us know if you have any questions.'
+              s='Por favor, háganos saber si tiene alguna pregunta.'
               d='Shop.Theme.Customeraccount'
             }
           </a><br>
           {l
-            s='If the conditions of return listed above are not respected, we reserve the right to refuse your package and/or reimbursement.'
+            s='Si no se respetan las condiciones de devolución mencionadas anteriormente, nos reservamos el derecho de rechazar su paquete y/o reembolso.'
             d='Shop.Theme.Customeraccount'
           }
         </p>

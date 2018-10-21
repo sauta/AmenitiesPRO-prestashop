@@ -38,7 +38,7 @@
 
       <div class="form-group row">
         <label class="col-md-3 form-control-label required">
-          {l s='Order Reference:' d='Shop.Forms.Labels'}
+          {l s='Pedir Referencia:' d='Shop.Forms.Labels'}
         </label>
         <div class="col-md-6">
           <input
@@ -49,7 +49,7 @@
             value="{if isset($smarty.request.order_reference)}{$smarty.request.order_reference}{/if}"
           >
           <div class="form-control-comment">
-            {l s='For example: QIIXJXNUI or QIIXJXNUI#1' d='Shop.Theme.Customeraccount'}
+            {l s='Por ejemplo: QIIXJXNUI o QIIXJXNUI#1' d='Shop.Theme.Customeraccount'}
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@
 
     <footer class="form-footer text-sm-center clearfix">
       <button class="btn btn-primary" type="submit">
-        {l s='Send' d='Shop.Theme.Actions'}
+        {l s='Enviar' d='Shop.Theme.Actions'}
       </button>
     </footer>
   </form>

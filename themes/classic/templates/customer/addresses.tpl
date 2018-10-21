@@ -25,7 +25,7 @@
 {extends file='customer/page.tpl'}
 
 {block name='page_title'}
-  {l s='Your addresses' d='Shop.Theme.Customeraccount'}
+  {l s='Tus direcciones' d='Shop.Theme.Customeraccount'}
 {/block}
 
 {block name='page_content'}
@@ -40,7 +40,7 @@
   <div class="addresses-footer">
     <a href="{$urls.pages.address}" data-link-action="add-address">
       <i class="material-icons">&#xE145;</i>
-      <span>{l s='Create new address' d='Shop.Theme.Actions'}</span>
+      <span>{l s='Crear nueva dirección' d='Shop.Theme.Actions'}</span>
     </a>
   </div>
 {/block}

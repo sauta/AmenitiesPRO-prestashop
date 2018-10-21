@@ -2,29 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7619f713-d3c3-4766-b0d8-b95934f71039" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/miniatures/brand.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/miniatures/brand.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/miniatures/product.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/miniatures/product.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/address-form.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/address-form.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/address-selector-block.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/address-selector-block.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-detailed-actions.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-detailed-actions.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-detailed-product-line.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-detailed-product-line.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-detailed.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-detailed.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-summary.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-summary.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-voucher.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-voucher.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/customer-form.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/customer-form.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/footer.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/footer.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/login-form.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/login-form.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/order-confirmation-table.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/order-confirmation-table.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/order-final-summary-table.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/order-final-summary-table.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/order-final-summary.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/order-final-summary.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/addresses.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/addresses.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/checkout-step.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/checkout-step.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/payment.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/payment.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/personal-information.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/personal-information.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/shipping.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/shipping.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/cart-empty.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/cart-empty.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/cart.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/cart.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/order-confirmation.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/order-confirmation.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/cms/category.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/cms/category.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/cms/sitemap.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/cms/sitemap.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/cms/stores.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/cms/stores.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/address-form.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/address-form.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/block-address.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/block-address.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/customer-form.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/customer-form.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/login-form.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/login-form.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/my-account-links.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/my-account-links.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/order-detail-no-return.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/order-detail-no-return.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/order-detail-return.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/order-detail-return.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/order-messages.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/_partials/order-messages.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/address.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/address.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/addresses.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/addresses.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/authentication.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/authentication.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/discount.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/discount.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/guest-login.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/guest-login.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/guest-tracking.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/guest-tracking.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/history.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/history.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/identity.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/identity.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/my-account.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/my-account.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/order-detail.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/order-detail.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/order-follow.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/order-follow.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/order-return.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/order-return.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/order-slip.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/order-slip.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/password-email.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/password-email.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/password-infos.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/password-infos.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/password-new.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/password-new.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/templates/customer/registration.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/customer/registration.tpl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,22 +99,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="tpl" value="1134" />
+          <entry key="tpl" value="1806" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Smarty" value="1134" />
+          <entry key="Smarty" value="1806" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="tpl" value="66" />
+          <entry key="php" value="15" />
+          <entry key="rnc" value="1" />
+          <entry key="tpl" value="98" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Smarty" value="66" />
+          <entry key="PHP" value="15" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="Smarty" value="98" />
         </counts>
       </usages-collector>
     </session>
@@ -116,89 +126,80 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-detailed-actions.tpl">
+        <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/order-detail.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="40" column="41" lean-forward="true" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+            <state relative-caret-position="1319">
+              <caret line="198" column="20" lean-forward="true" selection-start-line="198" selection-start-column="20" selection-end-line="198" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-detailed.tpl">
+        <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/order-slip.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+            <state relative-caret-position="271">
+              <caret line="72" column="63" selection-start-line="72" selection-start-column="63" selection-end-line="72" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/address-selector-block.tpl">
+        <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/page.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="60" column="71" selection-start-line="60" selection-start-column="71" selection-end-line="60" selection-end-column="71" />
+            <state relative-caret-position="-463" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/password-email.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/address-form.tpl">
+        <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/password-infos.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="43" column="11" lean-forward="true" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+            <state relative-caret-position="338">
+              <caret line="47" column="62" selection-start-line="47" selection-start-column="62" selection-end-line="47" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/unreachable.tpl">
+        <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/password-new.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-235" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/shipping.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1980">
-              <caret line="110" column="25" selection-start-line="110" selection-start-column="25" selection-end-line="110" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/personal-information.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/payment.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/checkout-step.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="38" column="98" selection-start-line="38" selection-start-column="98" selection-end-line="38" selection-end-column="98" />
+            <state relative-caret-position="293">
+              <caret line="87" column="55" selection-start-line="87" selection-start-column="55" selection-end-line="87" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/addresses.tpl">
+        <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/registration.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2087">
-              <caret line="131" column="14" lean-forward="true" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
+            <state relative-caret-position="206">
+              <caret line="34" column="132" selection-start-line="34" selection-start-column="132" selection-end-line="34" selection-end-column="132" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/order-return.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-18">
+              <caret line="123" column="30" lean-forward="true" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/order-follow.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -229,11 +230,11 @@
       <find>Catalog</find>
       <find>Shop.Theme.Catalog</find>
       <find>catalog</find>
-      <find>Shop</find>
       <find>Shop.theme</find>
       <find>%prestashop%</find>
       <find>prestashop</find>
       <find>shop</find>
+      <find>Shop</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Sautita\PhpstormProjects\public_html\src\PrestaShopBundle</dir>
@@ -245,21 +246,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/admin/login.js" />
-        <option value="$PROJECT_DIR$/amenities/themes/new-theme/template/error.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/catalog/suppliers.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/catalog/brands.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/catalog/product.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/catalog/listing/supplier.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/catalog/listing/manufacturer.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/sort-orders.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/products.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/products-top.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/product-discounts.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/product-details.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/product-customization.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/product-add-to-cart.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/facets.tpl" />
         <option value="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/miniatures/product.tpl" />
         <option value="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/miniatures/brand.tpl" />
         <option value="$PROJECT_DIR$/themes/classic/templates/checkout/order-confirmation.tpl" />
@@ -283,6 +269,34 @@
         <option value="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/payment.tpl" />
         <option value="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/checkout-step.tpl" />
         <option value="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/addresses.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/cms/category.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/cms/sitemap.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/cms/stores.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/_partials/address-form.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/_partials/block-address.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/_partials/customer-form.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/_partials/login-form.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/_partials/my-account-links.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/_partials/order-detail-no-return.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/_partials/order-detail-return.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/_partials/order-messages.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/address.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/addresses.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/authentication.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/discount.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/guest-login.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/guest-tracking.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/history.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/identity.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/my-account.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/order-detail.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/order-follow.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/order-return.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/order-slip.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/password-email.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/password-infos.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/password-new.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/customer/registration.tpl" />
       </list>
     </option>
   </component>
@@ -319,6 +333,96 @@
             <path>
               <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
               <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PrestaShopBundle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PrestaShopBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PrestaShopBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PrestaShopBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="AdvancedParameters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PrestaShopBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="AdvancedParameters" type="462c0819:PsiDirectoryNode" />
+              <item name="Performance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PrestaShopBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="Category" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PrestaShopBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="Configure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PrestaShopBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="Configure" type="462c0819:PsiDirectoryNode" />
+              <item name="AdvancedParameters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PrestaShopBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="Configure" type="462c0819:PsiDirectoryNode" />
+              <item name="AdvancedParameters" type="462c0819:PsiDirectoryNode" />
+              <item name="Administration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PrestaShopBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+              <item name="Configure" type="462c0819:PsiDirectoryNode" />
+              <item name="AdvancedParameters" type="462c0819:PsiDirectoryNode" />
+              <item name="Import" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -340,7 +444,7 @@
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="classic" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="checkout" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
@@ -348,7 +452,7 @@
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="classic" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="checkout" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
               <item name="_partials" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -357,9 +461,41 @@
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="classic" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="checkout" type="462c0819:PsiDirectoryNode" />
+              <item name="customer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="classic" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="customer" type="462c0819:PsiDirectoryNode" />
               <item name="_partials" type="462c0819:PsiDirectoryNode" />
-              <item name="steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="classic" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="errors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="classic" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="errors" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="classic" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -403,18 +539,17 @@
       <workItem from="1538569162674" duration="48000" />
       <workItem from="1538579377562" duration="9974000" />
       <workItem from="1539267553104" duration="1038000" />
-      <workItem from="1540067816390" duration="6531000" />
+      <workItem from="1540067816390" duration="14305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30042000" />
+    <option name="totallyTimeSpent" value="37816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19818456" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22692889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -427,7 +562,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.17741935" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.1983871" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.20922747" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -443,303 +578,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/listing/manufacturer.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="21" column="89" lean-forward="true" selection-start-line="21" selection-start-column="89" selection-end-line="21" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/listing/best-sales.tpl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/facets.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="132" column="29" lean-forward="true" selection-start-line="132" selection-start-column="29" selection-end-line="132" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/product-activation.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-287" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/product-add-to-cart.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="77" column="61" selection-start-line="77" selection-start-column="61" selection-end-line="77" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/product-additional-info.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-89" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/product-cover-thumbnails.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/product-customization.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="28" column="94" selection-start-line="28" selection-start-column="94" selection-end-line="28" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/product-discounts.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/product-details.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="83" column="37" lean-forward="true" selection-start-line="83" selection-start-column="37" selection-end-line="83" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/product-images-modal.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/product-prices.tpl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/product-variants.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/products-bottom.tpl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/products.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="40" column="44" lean-forward="true" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/products-top.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="49" column="16" lean-forward="true" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/quickview.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/sort-orders.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="32" column="68" lean-forward="true" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/variant-links.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/miniatures/product.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="60" column="58" selection-start-line="60" selection-start-column="58" selection-end-line="60" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/miniatures/pack-product.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-571" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/miniatures/category.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-292" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/miniatures/brand.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/order-confirmation.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/checkout.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1351" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/cart-empty.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="38" column="80" selection-start-line="38" selection-start-column="80" selection-end-line="38" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/cart.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-397">
-          <caret line="47" column="79" selection-start-line="47" selection-start-column="79" selection-end-line="47" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/order-final-summary-table.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/order-final-summary.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="59" column="27" lean-forward="true" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/order-confirmation-table.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-573">
-          <caret line="57" column="28" lean-forward="true" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/login-form.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/header.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="93" selection-start-line="31" selection-start-column="93" selection-end-line="31" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/footer.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="27" column="119" lean-forward="true" selection-start-line="27" selection-start-column="119" selection-end-line="27" selection-end-column="119" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/customer-form.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-voucher.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="69" column="56" selection-start-line="69" selection-start-column="56" selection-end-line="69" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-summary-totals.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-276" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-summary-product-line.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-469" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-summary-items-subtotal.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-186" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-summary.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-detailed-totals.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-841" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-detailed-product-line.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1623">
-          <caret line="143" column="23" lean-forward="true" selection-start-line="143" selection-start-column="23" selection-end-line="143" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-detailed-actions.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="40" column="41" lean-forward="true" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-detailed.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/address-selector-block.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="60" column="71" selection-start-line="60" selection-start-column="71" selection-end-line="60" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/address-form.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="43" column="11" lean-forward="true" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/unreachable.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-235" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/shipping.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="110" column="25" selection-start-line="110" selection-start-column="25" selection-end-line="110" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/personal-information.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -763,8 +601,283 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/steps/addresses.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2087">
+        <state relative-caret-position="1493">
           <caret line="131" column="14" lean-forward="true" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/cms/_partials/sitemap-nested-list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/cms/category.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/cms/page.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/cms/sitemap.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/cms/stores.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/_partials/address-form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/_partials/block-address.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/_partials/customer-form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/_partials/login-form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/_partials/my-account-links.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/_partials/order-detail-no-return.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="125" column="47" selection-start-line="125" selection-start-column="47" selection-end-line="125" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/_partials/order-detail-return.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="246" column="40" selection-start-line="246" selection-start-column="40" selection-end-line="246" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/_partials/order-messages.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="869">
+          <caret line="78" column="22" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/address.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/addresses.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/authentication.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/discount.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="88" column="39" lean-forward="true" selection-start-line="88" selection-start-column="39" selection-end-line="88" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/guest-login.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/guest-tracking.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="41" column="101" selection-start-line="41" selection-start-column="101" selection-end-line="41" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/history.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/identity.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/my-account.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1607">
+          <caret line="106" column="25" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="116" column="16" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/AdvancedParameters/Performance/SmartyType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="63" column="25" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/AdvancedParameters/Performance/PerformanceFormHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-940" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/AdvancedParameters/Performance/PerformanceFormDataProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/AdvancedParameters/Performance/OptionalFeaturesType.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/AdvancedParameters/Performance/MemcacheServerType.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/AdvancedParameters/Performance/MediaServersType.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/AdvancedParameters/Performance/DebugModeType.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Import/ImportFormDataProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Import/ImportType.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Administration/UploadQuotaType.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Administration/NotificationsType.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Administration/GeneralType.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Administration/FormDataProvider.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/AdvancedParameters/Performance/CachingType.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Form/Admin/AdvancedParameters/Performance/CombineCompressCacheType.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/order-follow.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/order-detail.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1319">
+          <caret line="198" column="20" lean-forward="true" selection-start-line="198" selection-start-column="20" selection-end-line="198" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/order-return.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="123" column="30" lean-forward="true" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/order-slip.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="72" column="63" selection-start-line="72" selection-start-column="63" selection-end-line="72" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/page.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-463" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/password-email.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/password-infos.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="47" column="62" selection-start-line="47" selection-start-column="62" selection-end-line="47" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/password-new.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="87" column="55" selection-start-line="87" selection-start-column="55" selection-end-line="87" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/customer/registration.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="34" column="132" selection-start-line="34" selection-start-column="132" selection-end-line="34" selection-end-column="132" />
         </state>
       </provider>
     </entry>

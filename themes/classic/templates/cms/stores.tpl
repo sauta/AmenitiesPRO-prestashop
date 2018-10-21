@@ -25,7 +25,7 @@
 {extends file='page.tpl'}
 
 {block name='page_title'}
-  {l s='Our stores' d='Shop.Theme.Global'}
+  {l s='Nuestras Tiendas' d='Shop.Theme.Global'}
 {/block}
 
 {block name='page_content_container'}

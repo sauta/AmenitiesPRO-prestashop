@@ -42,12 +42,12 @@
               </a>
             </strong><br/>
             {if $product.reference}
-              {l s='Reference' d='Shop.Theme.Catalog'}: {$product.reference}<br/>
+              {l s='Referencia' d='Shop.Theme.Catalog'}: {$product.reference}<br/>
             {/if}
             {if $product.customizations}
               {foreach from=$product.customizations item="customization"}
                 <div class="customization">
-                  <a href="#" data-toggle="modal" data-target="#product-customizations-modal-{$customization.id_customization}">{l s='Product customization' d='Shop.Theme.Catalog'}</a>
+                  <a href="#" data-toggle="modal" data-target="#product-customizations-modal-{$customization.id_customization}">{l s='Personalización del producto' d='Shop.Theme.Catalog'}</a>
                 </div>
                 <div id="_desktop_product_customization_modal_wrapper_{$customization.id_customization}">
                   <div class="modal fade customization-modal" id="product-customizations-modal-{$customization.id_customization}" tabindex="-1" role="dialog" aria-hidden="true">
@@ -57,7 +57,7 @@
                           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                           </button>
-                          <h4 class="modal-title">{l s='Product customization' d='Shop.Theme.Catalog'}</h4>
+                          <h4 class="modal-title">{l s='Personalización del producto' d='Shop.Theme.Catalog'}</h4>
                         </div>
                         <div class="modal-body">
                           {foreach from=$customization.fields item="field"}
@@ -123,12 +123,12 @@
           <div class="col-sm-5 desc">
             <div class="name">{$product.name}</div>
             {if $product.reference}
-              <div class="ref">{l s='Reference' d='Shop.Theme.Catalog'}: {$product.reference}</div>
+              <div class="ref">{l s='Referencia' d='Shop.Theme.Catalog'}: {$product.reference}</div>
             {/if}
             {if $product.customizations}
               {foreach $product.customizations as $customization}
                 <div class="customization">
-                  <a href="#" data-toggle="modal" data-target="#product-customizations-modal-{$customization.id_customization}">{l s='Product customization' d='Shop.Theme.Catalog'}</a>
+                  <a href="#" data-toggle="modal" data-target="#product-customizations-modal-{$customization.id_customization}">{l s='Personalización del producto' d='Shop.Theme.Catalog'}</a>
                 </div>
                 <div id="_mobile_product_customization_modal_wrapper_{$customization.id_customization}">
                 </div>

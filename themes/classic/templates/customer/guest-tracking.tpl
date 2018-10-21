@@ -39,18 +39,18 @@
   {block name='guest_to_customer'}
     <form action="{$urls.pages.guest_tracking}" method="post">
       <header>
-        <h1 class="h3">{l s='Transform your guest account into a customer account and enjoy:' d='Shop.Theme.Customeraccount'}</h1>
+        <h1 class="h3">{l s='Transforme su cuenta de invitado en una cuenta de cliente y disfrute de:' d='Shop.Theme.Customeraccount'}</h1>
         <ul>
-          <li> -{l s='Personalized and secure access' d='Shop.Theme.Customeraccount'}</li>
-          <li> -{l s='Fast and easy checkout' d='Shop.Theme.Customeraccount'}</li>
-          <li> -{l s='Easier merchandise return' d='Shop.Theme.Customeraccount'}</li>
+          <li> -{l s='Acceso seguro y personalizado' d='Shop.Theme.Customeraccount'}</li>
+          <li> -{l s='Salida rapida y facil' d='Shop.Theme.Customeraccount'}</li>
+          <li> -{l s='Devolución de mercancia más fácil' d='Shop.Theme.Customeraccount'}</li>
         </ul>
       </header>
 
       <section class="form-fields">
 
         <label>
-          <span>{l s='Set your password:' d='Shop.Forms.Labels'}</span>
+          <span>{l s='establece tu contraseña:' d='Shop.Forms.Labels'}</span>
           <input type="password" data-validate="isPasswd" name="password" value="">
         </label>
 
@@ -62,7 +62,7 @@
         <input type="hidden" name="order_reference" value="{$order.details.reference}">
         <input type="hidden" name="email" value="{$guest_email}">
 
-        <button class="btn btn-primary" type="submit">{l s='Send' d='Shop.Theme.Actions'}</button>
+        <button class="btn btn-primary" type="submit">{l s='Enviar' d='Shop.Theme.Actions'}</button>
       </footer>
 
     </form>

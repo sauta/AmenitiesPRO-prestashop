@@ -30,11 +30,11 @@
         <thead class="thead-default">
           <tr>
             <th class="head-checkbox"><input type="checkbox"/></th>
-            <th>{l s='Product' d='Shop.Theme.Catalog'}</th>
-            <th>{l s='Quantity' d='Shop.Theme.Catalog'}</th>
-            <th>{l s='Returned' d='Shop.Theme.Customeraccount'}</th>
-            <th>{l s='Unit price' d='Shop.Theme.Catalog'}</th>
-            <th>{l s='Total price' d='Shop.Theme.Catalog'}</th>
+            <th>{l s='Producto' d='Shop.Theme.Catalog'}</th>
+            <th>{l s='Cantidad' d='Shop.Theme.Catalog'}</th>
+            <th>{l s='Devuelto' d='Shop.Theme.Customeraccount'}</th>
+            <th>{l s='Precio unitario' d='Shop.Theme.Catalog'}</th>
+            <th>{l s='Precio total' d='Shop.Theme.Catalog'}</th>
           </tr>
         </thead>
         {foreach from=$order.products item=product name=products}
@@ -55,12 +55,12 @@
             <td>
               <strong>{$product.name}</strong><br/>
               {if $product.reference}
-                {l s='Reference' d='Shop.Theme.Catalog'}: {$product.reference}<br/>
+                {l s='Referencia' d='Shop.Theme.Catalog'}: {$product.reference}<br/>
               {/if}
               {if $product.customizations}
                 {foreach from=$product.customizations item="customization"}
                   <div class="customization">
-                    <a href="#" data-toggle="modal" data-target="#product-customizations-modal-{$customization.id_customization}">{l s='Product customization' d='Shop.Theme.Catalog'}</a>
+                    <a href="#" data-toggle="modal" data-target="#product-customizations-modal-{$customization.id_customization}">{l s='Personalización del producto' d='Shop.Theme.Catalog'}</a>
                   </div>
                   <div id="_desktop_product_customization_modal_wrapper_{$customization.id_customization}">
                     <div class="modal fade customization-modal" id="product-customizations-modal-{$customization.id_customization}" tabindex="-1" role="dialog" aria-hidden="true">
@@ -70,7 +70,7 @@
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                               <span aria-hidden="true">&times;</span>
                             </button>
-                            <h4 class="modal-title">{l s='Product customization' d='Shop.Theme.Catalog'}</h4>
+                            <h4 class="modal-title">{l s='Personalización del producto' d='Shop.Theme.Catalog'}</h4>
                           </div>
                           <div class="modal-body">
                             {foreach from=$customization.fields item="field"}
@@ -172,12 +172,12 @@
                 <div class="col-sm-5 desc">
                   <div class="name">{$product.name}</div>
                   {if $product.reference}
-                    <div class="ref">{l s='Reference' d='Shop.Theme.Catalog'}: {$product.reference}</div>
+                    <div class="ref">{l s='Referencia' d='Shop.Theme.Catalog'}: {$product.reference}</div>
                   {/if}
                   {if $product.customizations}
                     {foreach $product.customizations as $customization}
                       <div class="customization">
-                        <a href="#" data-toggle="modal" data-target="#product-customizations-modal-{$customization.id_customization}">{l s='Product customization' d='Shop.Theme.Catalog'}</a>
+                        <a href="#" data-toggle="modal" data-target="#product-customizations-modal-{$customization.id_customization}">{l s='Personalización del producto' d='Shop.Theme.Catalog'}</a>
                       </div>
                       <div id="_mobile_product_customization_modal_wrapper_{$customization.id_customization}">
                       </div>
@@ -192,17 +192,17 @@
                     <div class="col-xs-4">
                       {if $product.customizations}
                         {foreach $product.customizations as $customization}
-                          <div class="q">{l s='Quantity' d='Shop.Theme.Catalog'}: {$customization.quantity}</div>
+                          <div class="q">{l s='Cantidad' d='Shop.Theme.Catalog'}: {$customization.quantity}</div>
                           <div class="s" id="_mobile_return_qty_{$product.id_order_detail}_{$customization.id_customization}"></div>
                         {/foreach}
                       {else}
-                        <div class="q">{l s='Quantity' d='Shop.Theme.Catalog'}: {$product.quantity}</div>
+                        <div class="q">{l s='Cantidad' d='Shop.Theme.Catalog'}: {$product.quantity}</div>
                         {if $product.quantity > $product.qty_returned}
                           <div class="s" id="_mobile_return_qty_{$product.id_order_detail}"></div>
                         {/if}
                       {/if}
                       {if $product.qty_returned > 0}
-                        <div>{l s='Returned' d='Shop.Theme.Customeraccount'}: {$product.qty_returned}</div>
+                        <div>{l s='Devuelto' d='Shop.Theme.Customeraccount'}: {$product.qty_returned}</div>
                       {/if}
                     </div>
                     <div class="col-xs-4 text-xs-right">
@@ -233,7 +233,7 @@
 
     <div class="box">
       <header>
-        <h3>{l s='Merchandise return' d='Shop.Theme.Customeraccount'}</h3>
+        <h3>{l s='Devolución de Mercancía' d='Shop.Theme.Customeraccount'}</h3>
         <p>{l s='If you wish to return one or more products, please mark the corresponding boxes and provide an explanation for the return. When complete, click the button below.' d='Shop.Theme.Customeraccount'}</p>
       </header>
       <section class="form-fields">
@@ -244,7 +244,7 @@
       <footer class="form-footer">
         <input type="hidden" name="id_order" value="{$order.details.id}">
         <button class="form-control-submit btn btn-primary" type="submit" name="submitReturnMerchandise">
-          {l s='Request a return' d='Shop.Theme.Customeraccount'}
+          {l s='Solicitar una devolución' d='Shop.Theme.Customeraccount'}
         </button>
       </footer>
     </div>

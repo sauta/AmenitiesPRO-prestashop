@@ -25,7 +25,7 @@
 {extends file='page.tpl'}
 
 {block name='page_title'}
-  {l s='Reset your password' d='Shop.Theme.Customeraccount'}
+  {l s='Restablecer su contraseña' d='Shop.Theme.Customeraccount'}
 {/block}
 
 {block name='page_content'}
@@ -46,21 +46,21 @@
 
         <div class="email">
           {l
-            s='Email address: %email%'
+            s='Dirección de Email: %email%'
             d='Shop.Theme.Customeraccount'
             sprintf=['%email%' => $customer_email|stripslashes]}
         </div>
 
         <div class="container-fluid">
           <div class="row form-group">
-            <label class="form-control-label col-md-3 offset-md-2">{l s='New password' d='Shop.Forms.Labels'}</label>
+            <label class="form-control-label col-md-3 offset-md-2">{l s='Nueva contraseña' d='Shop.Forms.Labels'}</label>
             <div class="col-md-4">
               <input class="form-control" type="password" data-validate="isPasswd" name="passwd" value="">
             </div>
           </div>
 
           <div class="row form-group">
-            <label class="form-control-label col-md-3 offset-md-2">{l s='Confirmation' d='Shop.Forms.Labels'}</label>
+            <label class="form-control-label col-md-3 offset-md-2">{l s='Confirme contraseña' d='Shop.Forms.Labels'}</label>
             <div class="col-md-4">
               <input class="form-control" type="password" data-validate="isPasswd" name="confirmation" value="">
             </div>
@@ -73,7 +73,7 @@
           <div class="row form-group">
             <div class="offset-md-5">
               <button class="btn btn-primary" type="submit" name="submit">
-                {l s='Change Password' d='Shop.Theme.Actions'}
+                {l s='Cambiar la contraseña' d='Shop.Theme.Actions'}
               </button>
             </div>
           </div>
@@ -85,6 +85,6 @@
 
 {block name='page_footer'}
   <ul>
-    <li><a href="{$urls.pages.authentication}">{l s='Back to Login' d='Shop.Theme.Actions'}</a></li>
+    <li><a href="{$urls.pages.authentication}">{l s='Regresar Login' d='Shop.Theme.Actions'}</a></li>
   </ul>
 {/block}

@@ -33,13 +33,13 @@
     <table class="table table-striped table-bordered hidden-sm-down">
       <thead class="thead-default">
         <tr>
-          <th>{l s='Code' d='Shop.Theme.Checkout'}</th>
-          <th>{l s='Description' d='Shop.Theme.Checkout'}</th>
-          <th>{l s='Quantity' d='Shop.Theme.Checkout'}</th>
-          <th>{l s='Value' d='Shop.Theme.Checkout'}</th>
-          <th>{l s='Minimum' d='Shop.Theme.Checkout'}</th>
-          <th>{l s='Cumulative' d='Shop.Theme.Checkout'}</th>
-          <th>{l s='Expiration date' d='Shop.Theme.Checkout'}</th>
+          <th>{l s='Codigo' d='Shop.Theme.Checkout'}</th>
+          <th>{l s='Descripción' d='Shop.Theme.Checkout'}</th>
+          <th>{l s='Cantidad' d='Shop.Theme.Checkout'}</th>
+          <th>{l s='Valor' d='Shop.Theme.Checkout'}</th>
+          <th>{l s='Minimo' d='Shop.Theme.Checkout'}</th>
+          <th>{l s='Acumulativo' d='Shop.Theme.Checkout'}</th>
+          <th>{l s='Fecha de caducidad' d='Shop.Theme.Checkout'}</th>
         </tr>
       </thead>
       <tbody>
@@ -61,31 +61,31 @@
         <div class="cart-rule">
           <ul>
             <li>
-              <strong>{l s='Code' d='Shop.Theme.Checkout'}</strong>
+              <strong>{l s='Codigo' d='Shop.Theme.Checkout'}</strong>
               {$cart_rule.code}
             </li>
             <li>
-              <strong>{l s='Description' d='Shop.Theme.Checkout'}</strong>
+              <strong>{l s='Descripción' d='Shop.Theme.Checkout'}</strong>
               {$cart_rule.name}
             </li>
             <li>
-              <strong>{l s='Quantity' d='Shop.Theme.Checkout'}</strong>
+              <strong>{l s='Cantidad' d='Shop.Theme.Checkout'}</strong>
               {$cart_rule.quantity_for_user}
             </li>
             <li>
-              <strong>{l s='Value' d='Shop.Theme.Checkout'}</strong>
+              <strong>{l s='Valor' d='Shop.Theme.Checkout'}</strong>
               {$cart_rule.value}
             </li>
             <li>
-              <strong>{l s='Minimum' d='Shop.Theme.Checkout'}</strong>
+              <strong>{l s='Minimo' d='Shop.Theme.Checkout'}</strong>
               {$cart_rule.voucher_minimal}
             </li>
             <li>
-              <strong>{l s='Cumulative' d='Shop.Theme.Checkout'}</strong>
+              <strong>{l s='Acumulativo' d='Shop.Theme.Checkout'}</strong>
               {$cart_rule.voucher_cumulable}
             </li>
             <li>
-              <strong>{l s='Expiration date' d='Shop.Theme.Checkout'}</strong>
+              <strong>{l s='Fecha de caducidad' d='Shop.Theme.Checkout'}</strong>
               {$cart_rule.voucher_date}
             </li>
           </ul>

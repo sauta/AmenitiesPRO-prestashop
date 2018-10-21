@@ -37,11 +37,11 @@
     <table class="table table-striped table-bordered hidden-sm-down">
       <thead class="thead-default">
         <tr>
-          <th>{l s='Order' d='Shop.Theme.Customeraccount'}</th>
-          <th>{l s='Return' d='Shop.Theme.Customeraccount'}</th>
-          <th>{l s='Package status' d='Shop.Theme.Customeraccount'}</th>
-          <th>{l s='Date issued' d='Shop.Theme.Customeraccount'}</th>
-          <th>{l s='Returns form' d='Shop.Theme.Customeraccount'}</th>
+          <th>{l s='Orden' d='Shop.Theme.Customeraccount'}</th>
+          <th>{l s='Regreso' d='Shop.Theme.Customeraccount'}</th>
+          <th>{l s='estado del paquete' d='Shop.Theme.Customeraccount'}</th>
+          <th>{l s='Fecha de emisión' d='Shop.Theme.Customeraccount'}</th>
+          <th>{l s='Formulario de devoluciones' d='Shop.Theme.Customeraccount'}</th>
         </tr>
       </thead>
       <tbody>
@@ -67,24 +67,24 @@
         <div class="order-return">
           <ul>
             <li>
-              <strong>{l s='Order' d='Shop.Theme.Customeraccount'}</strong>
+              <strong>{l s='Orden' d='Shop.Theme.Customeraccount'}</strong>
               <a href="{$return.details_url}">{$return.reference}</a>
             </li>
             <li>
-              <strong>{l s='Return' d='Shop.Theme.Customeraccount'}</strong>
+              <strong>{l s='Regreso' d='Shop.Theme.Customeraccount'}</strong>
               <a href="{$return.return_url}">{$return.return_number}</a>
             </li>
             <li>
-              <strong>{l s='Package status' d='Shop.Theme.Customeraccount'}</strong>
+              <strong>{l s='estado del paquete' d='Shop.Theme.Customeraccount'}</strong>
               {$return.state_name}
             </li>
             <li>
-              <strong>{l s='Date issued' d='Shop.Theme.Customeraccount'}</strong>
+              <strong>{l s='echa de emisión' d='Shop.Theme.Customeraccount'}</strong>
               {$return.return_date}
             </li>
             {if $return.print_url}
               <li>
-                <strong>{l s='Returns form' d='Shop.Theme.Customeraccount'}</strong>
+                <strong>{l s='Formulario de devoluciones' d='Shop.Theme.Customeraccount'}</strong>
                 <a href="{$return.print_url}">{l s='Print out' d='Shop.Theme.Actions'}</a>
               </li>
             {/if}

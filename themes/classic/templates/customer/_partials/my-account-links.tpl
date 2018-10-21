@@ -29,6 +29,6 @@
   </a>
   <a href="{$urls.pages.index}" class="account-link">
     <i class="material-icons">&#xE88A;</i>
-    <span>{l s='Home' d='Shop.Theme.Global'}</span>
+    <span>{l s='Hogar' d='Shop.Theme.Global'}</span>
   </a>
 {/block}

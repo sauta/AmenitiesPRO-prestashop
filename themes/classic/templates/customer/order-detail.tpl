@@ -36,7 +36,7 @@
             <div class="col-xs-{if $order.details.reorder_url}9{else}12{/if}">
               <strong>
                 {l
-                  s='Order Reference %reference% - placed on %date%'
+                  s='Pedir Referencia %reference% - colocada en %date%'
                   d='Shop.Theme.Customeraccount'
                   sprintf=['%reference%' => $order.details.reference, '%date%' => $order.details.order_date]
                 }
@@ -44,7 +44,7 @@
             </div>
             {if $order.details.reorder_url}
               <div class="col-xs-3 text-xs-right">
-                <a href="{$order.details.reorder_url}" class="button-primary">{l s='Reorder' d='Shop.Theme.Actions'}</a>
+                <a href="{$order.details.reorder_url}" class="button-primary">{l s='Reordenar' d='Shop.Theme.Actions'}</a>
               </div>
             {/if}
             <div class="clearfix"></div>
@@ -53,26 +53,26 @@
 
       <div class="box">
           <ul>
-            <li><strong>{l s='Carrier' d='Shop.Theme.Checkout'}</strong> {$order.carrier.name}</li>
-            <li><strong>{l s='Payment method' d='Shop.Theme.Checkout'}</strong> {$order.details.payment}</li>
+            <li><strong>{l s='Portador' d='Shop.Theme.Checkout'}</strong> {$order.carrier.name}</li>
+            <li><strong>{l s='Método de pago' d='Shop.Theme.Checkout'}</strong> {$order.details.payment}</li>
 
             {if $order.details.invoice_url}
               <li>
                 <a href="{$order.details.invoice_url}">
-                  {l s='Download your invoice as a PDF file.' d='Shop.Theme.Customeraccount'}
+                  {l s='Descargue su factura en formato PDF.' d='Shop.Theme.Customeraccount'}
                 </a>
               </li>
             {/if}
 
             {if $order.details.recyclable}
               <li>
-                {l s='You have given permission to receive your order in recycled packaging.' d='Shop.Theme.Customeraccount'}
+                {l s='Usted ha dado permiso para recibir su pedido en envases reciclados.' d='Shop.Theme.Customeraccount'}
               </li>
             {/if}
 
             {if $order.details.gift_message}
-              <li>{l s='You have requested gift wrapping for this order.' d='Shop.Theme.Customeraccount'}</li>
-              <li>{l s='Message' d='Shop.Theme.Customeraccount'} {$order.details.gift_message nofilter}</li>
+              <li>{l s='Usted ha solicitado envoltura de regalo para este pedido.' d='Shop.Theme.Customeraccount'}</li>
+              <li>{l s='Mensaje' d='Shop.Theme.Customeraccount'} {$order.details.gift_message nofilter}</li>
             {/if}
           </ul>
       </div>
@@ -81,12 +81,12 @@
 
   {block name='order_history'}
     <section id="order-history" class="box">
-      <h3>{l s='Follow your order\'s status step-by-step' d='Shop.Theme.Customeraccount'}</h3>
+      <h3>{l s='Siga paso a paso, la situación de su pedido' d='Shop.Theme.Customeraccount'}</h3>
       <table class="table table-striped table-bordered table-labeled hidden-xs-down">
         <thead class="thead-default">
           <tr>
-            <th>{l s='Date' d='Shop.Theme.Global'}</th>
-            <th>{l s='Status' d='Shop.Theme.Global'}</th>
+            <th>{l s='Borrar' d='Shop.Theme.Global'}</th>
+            <th>{l s='Estado' d='Shop.Theme.Global'}</th>
           </tr>
         </thead>
         <tbody>
@@ -119,7 +119,7 @@
 
   {if $order.follow_up}
     <div class="box">
-      <p>{l s='Click the following link to track the delivery of your order' d='Shop.Theme.Customeraccount'}</p>
+      <p>{l s='Haga clic en el siguiente enlace para rastrear la entrega de su pedido' d='Shop.Theme.Customeraccount'}</p>
       <a href="{$order.follow_up}">{$order.follow_up}</a>
     </div>
   {/if}
@@ -129,7 +129,7 @@
       {if $order.addresses.delivery}
         <div class="col-lg-6 col-md-6 col-sm-6">
           <article id="delivery-address" class="box">
-            <h4>{l s='Delivery address %alias%' d='Shop.Theme.Checkout' sprintf=['%alias%' => $order.addresses.delivery.alias]}</h4>
+            <h4>{l s='Dirección de entrega %alias%' d='Shop.Theme.Checkout' sprintf=['%alias%' => $order.addresses.delivery.alias]}</h4>
             <address>{$order.addresses.delivery.formatted nofilter}</address>
           </article>
         </div>
@@ -137,7 +137,7 @@
 
       <div class="col-lg-6 col-md-6 col-sm-6">
         <article id="invoice-address" class="box">
-          <h4>{l s='Invoice address %alias%' d='Shop.Theme.Checkout' sprintf=['%alias%' => $order.addresses.invoice.alias]}</h4>
+          <h4>{l s='Dirección de facturación %alias%' d='Shop.Theme.Checkout' sprintf=['%alias%' => $order.addresses.invoice.alias]}</h4>
           <address>{$order.addresses.invoice.formatted nofilter}</address>
         </article>
       </div>
@@ -161,11 +161,11 @@
         <table class="table table-striped table-bordered hidden-sm-down">
           <thead class="thead-default">
             <tr>
-              <th>{l s='Date' d='Shop.Theme.Global'}</th>
-              <th>{l s='Carrier' d='Shop.Theme.Checkout'}</th>
-              <th>{l s='Weight' d='Shop.Theme.Checkout'}</th>
-              <th>{l s='Shipping cost' d='Shop.Theme.Checkout'}</th>
-              <th>{l s='Tracking number' d='Shop.Theme.Checkout'}</th>
+              <th>{l s='Fecha' d='Shop.Theme.Global'}</th>
+              <th>{l s='Transporte' d='Shop.Theme.Checkout'}</th>
+              <th>{l s='Peso' d='Shop.Theme.Checkout'}</th>
+              <th>{l s='Costo de envío' d='Shop.Theme.Checkout'}</th>
+              <th>{l s='Numero de seguimiento' d='Shop.Theme.Checkout'}</th>
             </tr>
           </thead>
           <tbody>
@@ -185,19 +185,19 @@
             <div class="shipping-line">
               <ul>
                 <li>
-                  <strong>{l s='Date' d='Shop.Theme.Global'}</strong> {$line.shipping_date}
+                  <strong>{l s='Fecha' d='Shop.Theme.Global'}</strong> {$line.shipping_date}
                 </li>
                 <li>
-                  <strong>{l s='Carrier' d='Shop.Theme.Checkout'}</strong> {$line.carrier_name}
+                  <strong>{l s='Transporte' d='Shop.Theme.Checkout'}</strong> {$line.carrier_name}
                 </li>
                 <li>
-                  <strong>{l s='Weight' d='Shop.Theme.Checkout'}</strong> {$line.shipping_weight}
+                  <strong>{l s='Peso' d='Shop.Theme.Checkout'}</strong> {$line.shipping_weight}
                 </li>
                 <li>
-                  <strong>{l s='Shipping cost' d='Shop.Theme.Checkout'}</strong> {$line.shipping_cost}
+                  <strong>{l s='Costo de envío' d='Shop.Theme.Checkout'}</strong> {$line.shipping_cost}
                 </li>
                 <li>
-                  <strong>{l s='Tracking number' d='Shop.Theme.Checkout'}</strong> {$line.tracking nofilter}
+                  <strong>{l s='Numero de seguimiento' d='Shop.Theme.Checkout'}</strong> {$line.tracking nofilter}
                 </li>
               </ul>
             </div>
