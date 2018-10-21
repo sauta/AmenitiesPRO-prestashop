@@ -24,7 +24,7 @@
  *}
 
 <div class="contact-rich">
-  <h4>{l s='Store information' d='Shop.Theme.Global'}</h4>
+  <h4>{l s='Almacenar información' d='Shop.Theme.Global'}</h4>
   <div class="block">
     <div class="icon"><i class="material-icons">&#xE55F;</i></div>
     <div class="data">{$contact_infos.address.formatted nofilter}</div>
@@ -34,7 +34,7 @@
     <div class="block">
       <div class="icon"><i class="material-icons">&#xE0CD;</i></div>
       <div class="data">
-        {l s='Call us:' d='Shop.Theme.Global'}<br/>
+        {l s='Llamanos:' d='Shop.Theme.Global'}<br/>
         <a href="tel:{$contact_infos.phone}">{$contact_infos.phone}</a>
        </div>
     </div>
@@ -54,7 +54,7 @@
     <div class="block">
       <div class="icon"><i class="material-icons">&#xE158;</i></div>
       <div class="data email">
-        {l s='Email us:' d='Shop.Theme.Global'}<br/>
+        {l s='Envíenos un email:' d='Shop.Theme.Global'}<br/>
        </div>
        <a href="mailto:{$contact_infos.email}">{$contact_infos.email}</a>
     </div>

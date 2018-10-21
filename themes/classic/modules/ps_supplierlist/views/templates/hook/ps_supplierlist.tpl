@@ -34,7 +34,7 @@
       {if $suppliers}
         {include file="module:ps_supplierlist/views/templates/_partials/$supplier_display_type.tpl" suppliers=$suppliers}
       {else}
-        <p>{l s='No supplier' d='Shop.Theme.Catalog'}</p>
+        <p>{l s='Sin proveedor' d='Shop.Theme.Catalog'}</p>
       {/if}
     </div>
   </section>

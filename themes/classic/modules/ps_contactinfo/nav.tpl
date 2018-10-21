@@ -27,7 +27,7 @@
     {if $contact_infos.phone}
       {* [1][/1] is for a HTML tag. *}
       {l
-        s='Call us: [1]%phone%[/1]'
+        s='Llámanos: [1]%phone%[/1]'
         sprintf=[
           '[1]' => '<span>',
           '[/1]' => '</span>',

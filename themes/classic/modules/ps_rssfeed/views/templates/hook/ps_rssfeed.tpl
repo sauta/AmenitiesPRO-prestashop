@@ -33,7 +33,7 @@
         {/foreach}
       </ul>
     {else}
-      <p>{l s='No RSS feed added' d='Shop.Theme.Catalog'}</p>
+      <p>{l s='No se han añadido fuentes RSS' d='Shop.Theme.Catalog'}</p>
     {/if}
   </div>
 </div>

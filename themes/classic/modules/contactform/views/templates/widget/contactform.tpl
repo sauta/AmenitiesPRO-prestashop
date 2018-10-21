@@ -70,17 +70,17 @@
 
         {if $contact.orders}
           <div class="form-group row">
-            <label class="col-md-3 form-control-label">{l s='Order reference' d='Shop.Forms.Labels'}</label>
+            <label class="col-md-3 form-control-label">{l s='Pedir Referencia' d='Shop.Forms.Labels'}</label>
             <div class="col-md-6">
               <select name="id_order" class="form-control form-control-select">
-                <option value="">{l s='Select reference' d='Shop.Forms.Help'}</option>
+                <option value="">{l s='Seleccione referencia' d='Shop.Forms.Help'}</option>
                 {foreach from=$contact.orders item=order}
                   <option value="{$order.id_order}">{$order.reference}</option>
                 {/foreach}
               </select>
             </div>
             <span class="col-md-3 form-control-comment">
-              {l s='optional' d='Shop.Forms.Help'}
+              {l s='Opcional' d='Shop.Forms.Help'}
             </span>
           </div>
         {/if}
@@ -89,10 +89,10 @@
           <div class="form-group row">
             <label class="col-md-3 form-control-label">{l s='Adjunto' d='Shop.Forms.Labels'}</label>
             <div class="col-md-6">
-              <input type="file" name="fileUpload" class="filestyle" data-buttonText="{l s='Choose file' d='Shop.Theme.Actions'}">
+              <input type="file" name="fileUpload" class="filestyle" data-buttonText="{l s='Elija el archivo' d='Shop.Theme.Actions'}">
             </div>
             <span class="col-md-3 form-control-comment">
-              {l s='optional' d='Shop.Forms.Help'}
+              {l s='Opcional' d='Shop.Forms.Help'}
             </span>
           </div>
         {/if}
@@ -127,7 +127,7 @@
         </style>
         <input type="text" name="url" value=""/>
         <input type="hidden" name="token" value="{$token}" />
-        <input class="btn btn-primary" type="submit" name="submitMessage" value="{l s='Send' d='Shop.Theme.Actions'}">
+        <input class="btn btn-primary" type="submit" name="submitMessage" value="{l s='Enviar' d='Shop.Theme.Actions'}">
       </footer>
     {/if}
 

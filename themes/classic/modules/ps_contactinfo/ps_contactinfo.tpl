@@ -25,12 +25,12 @@
 
 <div class="block-contact col-md-4 links wrapper">
   <div class="hidden-sm-down">
-    <p class="h4 text-uppercase block-contact-title">{l s='Store information' d='Shop.Theme.Global'}</p>
+    <p class="h4 text-uppercase block-contact-title">{l s='Almacenar información' d='Shop.Theme.Global'}</p>
       {$contact_infos.address.formatted nofilter}
       {if $contact_infos.phone}
         <br>
         {* [1][/1] is for a HTML tag. *}
-        {l s='Call us: [1]%phone%[/1]'
+        {l s='Llámanos al [1]%phone%[/1]'
           sprintf=[
           '[1]' => '<span>',
           '[/1]' => '</span>',
@@ -56,7 +56,7 @@
         <br>
         {* [1][/1] is for a HTML tag. *}
         {l
-          s='Email us: [1]%email%[/1]'
+          s='Envianos un email: [1]%email%[/1]'
           sprintf=[
             '[1]' => '<a href="mailto:'|cat:$contact_infos.email|cat:'" class="dropdown">',
             '[/1]' => '</a>',
@@ -68,7 +68,7 @@
   </div>
   <div class="hidden-md-up">
     <div class="title">
-      <a class="h3" href="{$urls.pages.stores}">{l s='Store information' d='Shop.Theme.Global'}</a>
+      <a class="h3" href="{$urls.pages.stores}">{l s='Almacenar información' d='Shop.Theme.Global'}</a>
     </div>
   </div>
 </div>

@@ -25,7 +25,7 @@
 <nav class="pagination">
   <div class="col-md-4">
     {block name='pagination_summary'}
-      {l s='Showing %from%-%to% of %total% item(s)' d='Shop.Theme.Catalog' sprintf=['%from%' => $pagination.items_shown_from ,'%to%' => $pagination.items_shown_to, '%total%' => $pagination.total_items]}
+      {l s='Mostrando %from%-%to% de %total% item(s)' d='Shop.Theme.Catalog' sprintf=['%from%' => $pagination.items_shown_from ,'%to%' => $pagination.items_shown_to, '%total%' => $pagination.total_items]}
     {/block}
   </div>
 
@@ -45,9 +45,9 @@
                   class="{if $page.type === 'previous'}previous {elseif $page.type === 'next'}next {/if}{['disabled' => !$page.clickable, 'js-search-link' => true]|classnames}"
                 >
                   {if $page.type === 'previous'}
-                    <i class="material-icons">&#xE314;</i>{l s='Previous' d='Shop.Theme.Actions'}
+                    <i class="material-icons">&#xE314;</i>{l s='Anterior' d='Shop.Theme.Actions'}
                   {elseif $page.type === 'next'}
-                    {l s='Next' d='Shop.Theme.Actions'}<i class="material-icons">&#xE315;</i>
+                    {l s='Siguiente' d='Shop.Theme.Actions'}<i class="material-icons">&#xE315;</i>
                   {else}
                     {$page.page}
                   {/if}

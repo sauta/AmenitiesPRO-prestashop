@@ -39,7 +39,7 @@
             {foreach from=$product.customizations item='customization'}
                 <li>
                     <span class="product-quantity">{$customization.quantity}</span>
-                    <a href="{$customization.remove_from_cart_url}" title="{l s='remove from cart' d='Shop.Theme.Actions'}" class="remove-from-cart" rel="nofollow">{l s='Remove' d='Shop.Theme.Actions'}</a>
+                    <a href="{$customization.remove_from_cart_url}" title="{l s='remover del carrito' d='Shop.Theme.Actions'}" class="remove-from-cart" rel="nofollow">{l s='Remove' d='Shop.Theme.Actions'}</a>
                     <ul>
                         {foreach from=$customization.fields item='field'}
                             <li>
