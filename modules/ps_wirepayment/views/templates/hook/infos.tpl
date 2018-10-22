@@ -25,7 +25,7 @@
 
 <div class="alert alert-info">
 <img src="../modules/ps_wirepayment/logo.png" style="float:left; margin-right:15px;" height="60">
-<p><strong>{l s="This module allows you to accept secure payments by bank wire." d='Modules.Wirepayment.Admin'}</strong></p>
-<p>{l s="If the client chooses to pay by bank wire, the order status will change to 'Waiting for Payment'." d='Modules.Wirepayment.Admin'}</p>
-<p>{l s="That said, you must manually confirm the order upon receiving the bank wire." d='Modules.Wirepayment.Admin'}</p>
+<p><strong>{l s="Este módulo le permite aceptar pagos seguros por transferencia bancaria." d='Modules.Wirepayment.Admin'}</strong></p>
+<p>{l s="Si el cliente decide pagar mediante transferencia bancaria, el estado del pedido cambiará a "En espera de pago"." d='Modules.Wirepayment.Admin'}</p>
+<p>{l s="Dicho esto, debe confirmar manualmente el pedido al recibir la transferencia bancaria." d='Modules.Wirepayment.Admin'}</p>
 </div>

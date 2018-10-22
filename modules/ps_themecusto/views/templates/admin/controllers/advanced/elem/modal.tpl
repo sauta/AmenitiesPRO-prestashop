@@ -20,7 +20,7 @@
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
-                <h4 class="modal-title module-modal-title" id="exampleModalLongTitle">{l s='Upload child theme' mod='ps_themecusto'}</h4>
+                <h4 class="modal-title module-modal-title" id="exampleModalLongTitle">{l s='Subir tema Hijo' mod='ps_themecusto'}</h4>
             </div>
             <div class="modal-body">
                 <div class="row">
@@ -30,19 +30,19 @@
                             <div class="module-import-start">
                                 <i class="module-import-start-icon material-icons">cloud_upload</i><br>
                                 <p class="module-import-start-main-text">
-                                    {l s='Drop your child theme archive here or' mod='ps_themecusto'} <a href="#" class="module-import-start-select-manual">{l s='select file' mod='ps_themecusto'}</a>
+                                    {l s='Deje el archivo temas hijo aquí o' mod='ps_themecusto'} <a href="#" class="module-import-start-select-manual">{l s='Seleccione archivo' mod='ps_themecusto'}</a>
                                 </p>
                                 <p class="module-import-start-footer-text">
-                                    {l s='Please upload one file at a time, .zip. Your child theme will be installed right after that.' mod='ps_themecusto'}
+                                    {l s='Por favor cargue un archivo a la vez, .zip. Su tema hijo se instalará justo después de eso.' mod='ps_themecusto'}
                                 </p>
                             </div>
                             <div class="module-import-failure">
                                 <i class="module-import-failure-icon material-icons">error</i><br>
-                                <p class="module-import-failure-msg">{l s='Oops... Upload failed.' mod='ps_themecusto'}</p>
-                                <a href="#" class="module-import-failure-details-action">{l s='What happened?' mod='ps_themecusto'}</a>
-                                <div class="module-import-failure-details">{l s='An error has occurred.' mod='ps_themecusto'}</div>
+                                <p class="module-import-failure-msg">{l s='Upss... Subida fallida.' mod='ps_themecusto'}</p>
+                                <a href="#" class="module-import-failure-details-action">{l s='¿Que pasó?' mod='ps_themecusto'}</a>
+                                <div class="module-import-failure-details">{l s='Se ha producido un error.' mod='ps_themecusto'}</div>
                                 <p>
-                                    <a class="module-import-failure-retry btn btn-tertiary" href="#">{l s='Try again' mod='ps_themecusto'}</a>
+                                    <a class="module-import-failure-retry btn btn-tertiary" href="#">{l s='Intentar de nuevo, como con tu ex' mod='ps_themecusto'}</a>
                                 </p>
                             </div>
                             <div class="module-import-success">

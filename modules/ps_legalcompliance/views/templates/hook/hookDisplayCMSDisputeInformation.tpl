@@ -24,9 +24,9 @@
  *}
 
 <h4>
-	{l s='Information regarding online dispute resolution pursuant to Art. 14 Para. 1 of the ODR (Online Dispute Resolution Regulation):' d='Modules.Legalcompliance.Shop'}
+	{l s='Información sobre la resolución de disputas en línea conforme al art. 14 párr. 1 de la ODR (Reglamento de resolución de disputas en línea):' d='Modules.Legalcompliance.Shop'}
 </h4>
 
 <p>
-	{l s='The European Commission gives consumers the opportunity to resolve online disputes pursuant to Art. 14 Para. 1 of the ODR on one of their platforms. The platform ([1]http://ec.europa.eu/consumers/odr[/1]) serves as a site where consumers can try to reach out-of-court settlements of disputes arising from online purchases and contracts for services.' sprintf=['[1]' => '<a href="http://ec.europa.eu/consumers/odr" target="_blank" rel="nofollow">', '[/1]' => '</a>'] d='Modules.Legalcompliance.Shop'}
+	{l s='La Comisión Europea brinda a los consumidores la oportunidad de resolver disputas en línea de conformidad con el art. 14 párr. 1 de la ODR en una de sus plataformas. La plataforma ([1] http://ec.europa.eu/consumers/odr [/1]) sirve como un sitio donde los consumidores pueden tratar de llegar a acuerdos extrajudiciales de disputas que surjan de compras en línea y contratos de servicios. .' sprintf=['[1]' => '<a href="http://ec.europa.eu/consumers/odr" target="_blank" rel="nofollow">', '[/1]' => '</a>'] d='Modules.Legalcompliance.Shop'}
 </p>

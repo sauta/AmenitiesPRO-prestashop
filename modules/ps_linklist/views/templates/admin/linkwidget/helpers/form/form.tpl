@@ -71,8 +71,8 @@
                             <thead>
                                 <tr class="nodrag nodrop">
                                     <th>{l s='ID' d='Modules.Linklist.Admin'}</th>
-                                    <th>{l s='Position' d='Modules.Linklist.Admin'}</th>
-                                    <th>{l s='Name of the block' d='Modules.Linklist.Admin'}</th>
+                                    <th>{l s='Posición' d='Modules.Linklist.Admin'}</th>
+                                    <th>{l s='Nombre del bloque' d='Modules.Linklist.Admin'}</th>
                                     <th></th>
                                 </tr>
                             </thead>
@@ -91,8 +91,8 @@
                                         <td>
                                             <div class="btn-group-action">
                                                 <div class="btn-group pull-right">
-                                                    <a class="btn btn-default" href="{$current}&amp;edit{$identifier}&amp;id_link_block={(int)$link_block['id_link_block']}" title="{l s='Edit' d='Modules.Linklist.Admin'}">
-                                                        <i class="icon-edit"></i> {l s='Edit' d='Modules.Linklist.Admin'}
+                                                    <a class="btn btn-default" href="{$current}&amp;edit{$identifier}&amp;id_link_block={(int)$link_block['id_link_block']}" title="{l s='Editar' d='Modules.Linklist.Admin'}">
+                                                        <i class="icon-edit"></i> {l s='Editar' d='Modules.Linklist.Admin'}
                                                     </a>
                                                     <button class="btn btn-default dropdown-toggle" data-toggle="dropdown">
                                                         <i class="icon-caret-down"></i>&nbsp;

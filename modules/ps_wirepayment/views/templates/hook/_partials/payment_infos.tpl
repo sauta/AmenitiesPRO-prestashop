@@ -25,12 +25,12 @@
 
 
 <dl>
-    <dt>{l s='Amount' d='Modules.Wirepayment.Shop'}</dt>
+    <dt>{l s='Cantidad' d='Modules.Wirepayment.Shop'}</dt>
     <dd>{$total}</dd>
-    <dt>{l s='Name of account owner' d='Modules.Wirepayment.Shop'}</dt>
+    <dt>{l s='Nombre del titular de la cuenta' d='Modules.Wirepayment.Shop'}</dt>
     <dd>{$bankwireOwner}</dd>
-    <dt>{l s='Please include these details' d='Modules.Wirepayment.Shop'}</dt>
+    <dt>{l s='Por favor incluya estos detalles' d='Modules.Wirepayment.Shop'}</dt>
     <dd>{$bankwireDetails nofilter}</dd>
-    <dt>{l s='Bank name' d='Modules.Wirepayment.Shop'}</dt>
+    <dt>{l s='Nombre del banco' d='Modules.Wirepayment.Shop'}</dt>
     <dd>{$bankwireAddress nofilter}</dd>
 </dl>

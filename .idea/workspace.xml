@@ -3,43 +3,44 @@
   <component name="ChangeListManager">
     <list default="true" id="7619f713-d3c3-4766-b0d8-b95934f71039" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/contactform/views/templates/widget/contactform.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/contactform/views/templates/widget/contactform.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_bestsellers/views/templates/hook/ps_bestsellers.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_bestsellers/views/templates/hook/ps_bestsellers.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_brandlist/views/templates/_partials/brand_form.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_brandlist/views/templates/_partials/brand_form.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_brandlist/views/templates/hook/ps_brandlist.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_brandlist/views/templates/hook/ps_brandlist.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_categoryproducts/views/templates/hook/ps_categoryproducts.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_categoryproducts/views/templates/hook/ps_categoryproducts.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_contactinfo/nav.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_contactinfo/nav.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_contactinfo/ps_contactinfo-rich.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_contactinfo/ps_contactinfo-rich.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_crossselling/views/templates/hook/ps_crossselling.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_crossselling/views/templates/hook/ps_crossselling.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_currencyselector/ps_currencyselector.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_currencyselector/ps_currencyselector.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_customersignin/ps_customersignin.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_customersignin/ps_customersignin.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_emailalerts/views/templates/hook/my-account-footer.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_emailalerts/views/templates/hook/my-account-footer.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_emailalerts/views/templates/hook/my-account.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_emailalerts/views/templates/hook/my-account.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_languageselector/ps_languageselector.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_languageselector/ps_languageselector.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_legalcompliance/views/templates/hook/hookDisplayFooter.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_legalcompliance/views/templates/hook/hookDisplayFooter.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_newproducts/views/templates/hook/ps_newproducts.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_newproducts/views/templates/hook/ps_newproducts.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_productinfo/views/templates/hook/ps_productinfo.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_productinfo/views/templates/hook/ps_productinfo.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_rssfeed/views/templates/hook/ps_rssfeed.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_rssfeed/views/templates/hook/ps_rssfeed.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_searchbar/ps_searchbar.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_searchbar/ps_searchbar.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_sharebuttons/views/templates/hook/ps_sharebuttons.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_sharebuttons/views/templates/hook/ps_sharebuttons.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amenities/themes/new-theme/template/controllers/modules/login_addons.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/amenities/themes/new-theme/template/controllers/modules/login_addons.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/dashactivity/views/templates/hook/dashboard_zone_one.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/dashactivity/views/templates/hook/dashboard_zone_one.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/admin/legal_cms_manager_form.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/admin/legal_cms_manager_form.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCMSDisputeInformation.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCMSDisputeInformation.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCMSPrintButton.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCMSPrintButton.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCartPriceBlock_shipping_details.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCartPriceBlock_shipping_details.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCheckoutSummaryTop.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCheckoutSummaryTop.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayFooter.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayFooter.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_linklist/views/templates/admin/linkwidget/helpers/form/form.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_linklist/views/templates/admin/linkwidget/helpers/form/form.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_mainmenu/views/templates/admin/_configure/helpers/form/form.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_mainmenu/views/templates/admin/_configure/helpers/form/form.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_searchbar/ps_searchbar.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_searchbar/ps_searchbar.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_shoppingcart/modal.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_shoppingcart/modal.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_shoppingcart/ps_shoppingcart-product-line.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_shoppingcart/ps_shoppingcart-product-line.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_shoppingcart/ps_shoppingcart.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_shoppingcart/ps_shoppingcart.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_socialfollow/ps_socialfollow.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_socialfollow/ps_socialfollow.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/advanced/elem/modal.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/advanced/elem/modal.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/advanced/index.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/advanced/index.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/configuration/elem/modal.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/configuration/elem/modal.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/configuration/elem/module_actions.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/configuration/elem/module_actions.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/configuration/index.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/configuration/index.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/page.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/page.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/_partials/payment_infos.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/_partials/payment_infos.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/infos.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/infos.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/payment.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/payment.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/payment_return.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/payment_return.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/ps_wirepayment_intro.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/ps_wirepayment_intro.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/webpay/views/templates/admin/config.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/webpay/views/templates/admin/config.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/webpay/views/templates/front/payment_execution.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/webpay/views/templates/front/payment_execution.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/welcome/views/content.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/welcome/views/content.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/welcome/views/contents/end.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/welcome/views/contents/end.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/welcome/views/contents/welcome.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/welcome/views/contents/welcome.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/welcome/views/navbar.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/welcome/views/navbar.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/welcome/views/templates/lost.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/welcome/views/templates/lost.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/welcome/views/templates/tooltip.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/modules/welcome/views/templates/tooltip.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/_libraries/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/_libraries/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/assets/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classic/assets/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/assets/css/theme.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/modal.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/modal.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/ps_shoppingcart-product-line.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/ps_shoppingcart-product-line.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/ps_shoppingcart.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/ps_shoppingcart.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_specials/views/templates/hook/ps_specials.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_specials/views/templates/hook/ps_specials.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_supplierlist/views/templates/_partials/supplier_form.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_supplierlist/views/templates/_partials/supplier_form.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_supplierlist/views/templates/hook/ps_supplierlist.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_supplierlist/views/templates/hook/ps_supplierlist.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/modules/ps_viewedproduct/views/template/hook/ps_viewedproduct.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_viewedproduct/views/template/hook/ps_viewedproduct.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/_partials/footer.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/_partials/footer.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/_partials/pagination.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/_partials/pagination.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/footer.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/footer.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/errors/maintenance.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/errors/maintenance.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/errors/not-found.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/errors/not-found.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/classic/templates/errors/restricted-country.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/classic/templates/errors/restricted-country.tpl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,35 +104,44 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="tpl" value="1974" />
+          <entry key="tpl" value="2506" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Smarty" value="1974" />
+          <entry key="Smarty" value="2506" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="css" value="3" />
           <entry key="html" value="2" />
-          <entry key="php" value="17" />
-          <entry key="rnc" value="1" />
-          <entry key="tpl" value="174" />
+          <entry key="js" value="4" />
+          <entry key="php" value="22" />
+          <entry key="rnc" value="2" />
+          <entry key="scss" value="1" />
+          <entry key="tpl" value="229" />
+          <entry key="xlf" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSS" value="3" />
           <entry key="HTML" value="2" />
-          <entry key="PHP" value="17" />
-          <entry key="RNG Compact" value="1" />
-          <entry key="Smarty" value="174" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PHP" value="22" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="RNG Compact" value="2" />
+          <entry key="SCSS" value="1" />
+          <entry key="Smarty" value="229" />
         </counts>
       </usages-collector>
     </session>
@@ -139,73 +149,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/breadcrumb.tpl">
+        <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayOverrideTemplateFooter.tpl">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayFooterAfter.tpl">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayFooter.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="27" column="64" lean-forward="true" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
+            <state relative-caret-position="468">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCMSPrintButton.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCMSDisputeInformation.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCheckoutSummaryTop.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" column="83" selection-start-line="25" selection-start-column="83" selection-end-line="25" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCartPriceBlock_shipping_details.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hook-email-wrapper.tpl">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/displayCartTotalPriceLabel.tpl">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/footer.tpl">
+        <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/admin/legal_cms_manager_form.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+            <state relative-caret-position="299">
+              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/notifications.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1003" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/javascript.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-355" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/header.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1219" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/head.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-887" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_banner/ps_banner.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="24" column="63" lean-forward="true" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/modules/contactform/views/templates/widget/contactform.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="905">
-              <caret line="58" column="64" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/modules/blockreassurance/views/templates/hook/blockreassurance.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-118" />
           </provider>
         </entry>
       </file>
@@ -213,16 +226,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>2018</find>
-      <find>product</find>
-      <find>add_product_product_invoice</find>
-      <find>admin_order_tab_link</find>
-      <find>autocomplete</find>
-      <find>routing_addons</find>
       <find>images</find>
       <find>Language</find>
       <find>Symfony</find>
-      <find>Modules</find>
       <find>Logo flo</find>
       <find>logo float-left</find>
       <find>header_logo</find>
@@ -241,10 +247,19 @@
       <find>Shop</find>
       <find>call</find>
       <find>call us</find>
+      <find>AdminDashboard</find>
+      <find>Online Visitors</find>
+      <find>Module</find>
+      <find>Product successfully added to your shopping cart</find>
       <find>shop</find>
+      <find>s='</find>
+      <find>Modules</find>
+      <find>action</find>
+      <find>l s='</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Sautita\PhpstormProjects\public_html\src\PrestaShopBundle</dir>
+      <dir>C:\Users\Sautita\PhpstormProjects\AmenitiesPRO-prestashop\src\PrestaShopBundle</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -253,39 +268,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/classic/templates/customer/guest-tracking.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/customer/history.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/customer/identity.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/customer/my-account.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/customer/order-detail.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/customer/order-follow.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/customer/order-return.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/customer/order-slip.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/customer/password-email.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/customer/password-infos.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/customer/password-new.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/customer/registration.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/errors/maintenance.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/errors/not-found.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/errors/restricted-country.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/layouts/layout-error.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/_partials/pagination.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/templates/checkout/_partials/footer.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_viewedproduct/views/template/hook/ps_viewedproduct.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_supplierlist/views/templates/hook/ps_supplierlist.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_supplierlist/views/templates/_partials/supplier_form.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_specials/views/templates/hook/ps_specials.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/ps_shoppingcart-product-line.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/ps_shoppingcart.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/modal.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_sharebuttons/views/templates/hook/ps_sharebuttons.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_searchbar/ps_searchbar.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_rssfeed/views/templates/hook/ps_rssfeed.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_productinfo/views/templates/hook/ps_productinfo.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_newproducts/views/templates/hook/ps_newproducts.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_legalcompliance/views/templates/hook/hookDisplayFooter.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_languageselector/ps_languageselector.tpl" />
-        <option value="$PROJECT_DIR$/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl" />
         <option value="$PROJECT_DIR$/themes/classic/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl" />
         <option value="$PROJECT_DIR$/themes/classic/modules/ps_facetedsearch/ps_facetedsearch.tpl" />
         <option value="$PROJECT_DIR$/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl" />
@@ -304,6 +286,39 @@
         <option value="$PROJECT_DIR$/themes/classic/modules/ps_bestsellers/views/templates/hook/ps_bestsellers.tpl" />
         <option value="$PROJECT_DIR$/themes/classic/modules/contactform/views/templates/widget/contactform.tpl" />
         <option value="$PROJECT_DIR$/themes/classic/templates/_partials/footer.tpl" />
+        <option value="$PROJECT_DIR$/modules/dashactivity/views/templates/hook/dashboard_zone_one.tpl" />
+        <option value="$PROJECT_DIR$/modules/welcome/views/navbar.tpl" />
+        <option value="$PROJECT_DIR$/modules/welcome/views/content.tpl" />
+        <option value="$PROJECT_DIR$/modules/welcome/views/templates/tooltip.tpl" />
+        <option value="$PROJECT_DIR$/modules/welcome/views/templates/lost.tpl" />
+        <option value="$PROJECT_DIR$/modules/welcome/views/contents/welcome.tpl" />
+        <option value="$PROJECT_DIR$/modules/welcome/views/contents/end.tpl" />
+        <option value="$PROJECT_DIR$/modules/webpay/views/templates/front/payment_execution.tpl" />
+        <option value="$PROJECT_DIR$/modules/webpay/views/templates/admin/config.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/ps_wirepayment_intro.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/payment_return.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/payment.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/infos.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/_partials/payment_infos.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/page.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/configuration/index.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/configuration/elem/module_actions.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/configuration/elem/modal.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/advanced/index.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/advanced/elem/modal.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_socialfollow/ps_socialfollow.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_shoppingcart/ps_shoppingcart-product-line.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_shoppingcart/ps_shoppingcart.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_shoppingcart/modal.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_searchbar/ps_searchbar.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_mainmenu/views/templates/admin/_configure/helpers/form/form.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_linklist/views/templates/admin/linkwidget/helpers/form/form.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayFooter.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCMSPrintButton.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCMSDisputeInformation.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCheckoutSummaryTop.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCartPriceBlock_shipping_details.tpl" />
+        <option value="$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/admin/legal_cms_manager_form.tpl" />
       </list>
     </option>
   </component>
@@ -335,28 +350,46 @@
             <path>
               <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
               <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
               <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="classic" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ps_legalcompliance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
               <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="classic" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ps_legalcompliance" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ps_legalcompliance" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
               <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="classic" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ps_legalcompliance" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="_partials" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AmenitiesPRO-prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmenitiesPRO-prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ps_legalcompliance" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="hook" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -371,6 +404,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sautita\PhpstormProjects\AmenitiesPRO-prestashop\themes\classic\assets" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -401,12 +439,13 @@
       <workItem from="1538579377562" duration="9974000" />
       <workItem from="1539267553104" duration="1038000" />
       <workItem from="1540067816390" duration="20535000" />
-      <workItem from="1540144113501" duration="1841000" />
+      <workItem from="1540144113501" duration="14498000" />
+      <workItem from="1540226817703" duration="52000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45887000" />
+    <option name="totallyTimeSpent" value="58596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -414,7 +453,7 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.27382752" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.22541603" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -425,7 +464,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.09677419" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.18548387" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.20922747" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -441,336 +480,298 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/cart-detailed-actions.tpl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/checkout/_partials/footer.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_viewedproduct/views/template/hook/ps_viewedproduct.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_supplierlist/views/templates/hook/ps_supplierlist.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_supplierlist/views/templates/_partials/supplier_text.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_supplierlist/views/templates/_partials/supplier_form.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_specials/views/templates/hook/ps_specials.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/ps_shoppingcart-product-line.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="41" column="100" selection-start-line="41" selection-start-column="100" selection-end-line="41" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/ps_shoppingcart.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/modal.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/welcome/views/contents/end.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
-          <caret line="66" column="135" selection-start-line="66" selection-start-column="135" selection-end-line="66" selection-end-column="135" />
+          <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_sharebuttons/views/templates/hook/ps_sharebuttons.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/webpay/views/templates/hook/payment_return.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        <state relative-caret-position="-1295" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/webpay/views/templates/front/payment_execution.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="61" lean-forward="true" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_searchbar/ps_searchbar.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/webpay/views/templates/admin/config.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+        <state relative-caret-position="234">
+          <caret line="113" column="42" lean-forward="true" selection-start-line="113" selection-start-column="42" selection-end-line="113" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_rssfeed/views/templates/hook/ps_rssfeed.tpl">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        <state relative-caret-position="168">
+          <caret line="127" column="18" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_productinfo/views/templates/hook/ps_productinfo.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/webpay/views/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="40" column="71" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_newproducts/views/templates/hook/ps_newproducts.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_wirepayment/ps_wirepayment.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+        <state relative-caret-position="-6426" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/ps_wirepayment_intro.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_mainmenu/ps_mainmenu.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/payment_return.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        <state relative-caret-position="252">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_linklist/views/templates/hook/linkblock.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/payment.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-571" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_legalcompliance/views/templates/hook/hookDisplayFooter.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        <state relative-caret-position="306">
+          <caret line="28" column="138" selection-start-line="28" selection-start-column="138" selection-end-line="28" selection-end-column="138" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_languageselector/ps_languageselector.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/infos.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        <state relative-caret-position="360">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_wirepayment/views/templates/hook/_partials/payment_infos.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+        <state relative-caret-position="374">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/page.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        <state relative-caret-position="266">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_facetedsearch/ps_facetedsearch.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/configuration/index.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="16" />
+        <state relative-caret-position="1518">
+          <caret line="129" column="148" selection-start-line="129" selection-start-column="148" selection-end-line="129" selection-end-column="148" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/configuration/elem/wireframe.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="27" column="121" selection-start-line="27" selection-start-column="121" selection-end-line="27" selection-end-column="121" />
+        <state relative-caret-position="-305" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/configuration/elem/module_actions.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="66" selection-start-line="43" selection-start-column="60" selection-end-line="43" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_emailalerts/views/templates/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_emailalerts/views/templates/hook/my-account-footer.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/configuration/elem/modal.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="26" column="101" selection-start-line="26" selection-start-column="101" selection-end-line="26" selection-end-column="101" />
+        <state relative-caret-position="306">
+          <caret line="44" column="83" selection-start-line="44" selection-start-column="83" selection-end-line="44" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_emailalerts/views/templates/hook/my-account.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_customersignin/ps_customersignin.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_currencyselector/ps_currencyselector.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="28" column="168" selection-start-line="28" selection-start-column="168" selection-end-line="28" selection-end-column="168" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_crossselling/views/templates/hook/ps_crossselling.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="26" column="74" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_contactinfo/ps_contactinfo-rich.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/advanced/index.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
-          <caret line="27" column="80" selection-start-line="27" selection-start-column="80" selection-end-line="27" selection-end-column="80" />
+          <caret line="60" column="18" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_contactinfo/nav.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_themecusto/views/templates/admin/controllers/advanced/elem/modal.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        <state relative-caret-position="329">
+          <caret line="44" column="126" selection-start-line="44" selection-start-column="126" selection-end-line="44" selection-end-column="126" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_categorytree/views/templates/hook/ps_categorytree.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_socialfollow/ps_socialfollow.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-253" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_categoryproducts/views/templates/hook/ps_categoryproducts.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+        <state relative-caret-position="288">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_brandlist/views/templates/hook/ps_brandlist.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_shoppingcart/ps_shoppingcart-product-line.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
+        <state relative-caret-position="411">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_brandlist/views/templates/_partials/brand_text.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_shoppingcart/ps_shoppingcart.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-244" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_brandlist/views/templates/_partials/brand_form.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        <state relative-caret-position="216">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_bestsellers/views/templates/hook/ps_bestsellers.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_shoppingcart/ps_shoppingcart.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_shoppingcart/ps_shoppingcart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        <state relative-caret-position="-543" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_shoppingcart/modal.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_advertising/ps_advertising.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_sharebuttons/views/templates/hook/ps_sharebuttons.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        <state relative-caret-position="-301" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_searchbar/ps_searchbar.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_banner/ps_banner.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_searchbar/ps_searchbar.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_mainmenu/views/templates/admin/_configure/helpers/form/form.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="24" column="63" lean-forward="true" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+        <state relative-caret-position="271">
+          <caret line="119" column="124" selection-start-line="119" selection-start-column="124" selection-end-line="119" selection-end-column="124" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/contactform/views/templates/widget/contactform.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_mainmenu/views/templates/admin/_configure/helpers/list/list_content.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="905">
-          <caret line="58" column="64" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="64" />
+        <state relative-caret-position="-242" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_mainmenu/ps_mainmenu.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_mainmenu/translations/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_linklist/views/templates/hook/linkblock.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_linklist/views/templates/admin/linkwidget/helpers/form/form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="97" column="93" lean-forward="true" selection-start-line="97" selection-start-column="93" selection-end-line="97" selection-end-column="93" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/blockreassurance/views/templates/hook/blockreassurance.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayReassurance.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-118" />
+        <state relative-caret-position="-134" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/notifications.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayProductPriceBlock_unit_price.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1003" />
+        <state relative-caret-position="-247" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/javascript.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayProductPriceBlock_price.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-355" />
+        <state relative-caret-position="-31" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/head.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayProductPriceBlock_old_price.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-887" />
+        <state relative-caret-position="-31" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/header.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayProductPriceBlock_list_taxes.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1219" />
+        <state relative-caret-position="-31" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/breadcrumb.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayProductPriceBlock_before_price.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="27" column="64" lean-forward="true" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
+        <state relative-caret-position="-237" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayProductPriceBlock_after_price.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayOverrideTemplateFooter.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayFooterAfter.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayFooter.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amenities/themes/default/template/footer.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCMSPrintButton.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="31" column="70" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="70" />
+        <state relative-caret-position="486">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/footer.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCMSDisputeInformation.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+        <state relative-caret-position="540">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCheckoutSummaryTop.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="83" selection-start-line="25" selection-start-column="83" selection-end-line="25" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hookDisplayCartPriceBlock_shipping_details.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/hook-email-wrapper.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/hook/displayCartTotalPriceLabel.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/views/templates/admin/legal_cms_manager_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
         </state>
       </provider>
     </entry>

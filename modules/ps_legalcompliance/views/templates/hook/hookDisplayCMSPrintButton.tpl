@@ -24,7 +24,7 @@
  *}
 
 {if $directPrint}
-	<input type="submit" name="printCMSPage" value="{l s='Print this page' d='Modules.Legalcompliance.Shop'}" class="btn btn-secondary" onclick="window.print()" />
+	<input type="submit" name="printCMSPage" value="{l s='Imprimir esta pagina' d='Modules.Legalcompliance.Shop'}" class="btn btn-secondary" onclick="window.print()" />
 {else}
-	<a href="{$print_link}" class="btn btn-secondary" target="_blank">{l s='Print this page' d='Modules.Legalcompliance.Shop'}</a>
+	<a href="{$print_link}" class="btn btn-secondary" target="_blank">{l s='Imprimir esta página' d='Modules.Legalcompliance.Shop'}</a>
 {/if}

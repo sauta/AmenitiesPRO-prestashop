@@ -17,7 +17,7 @@
     {if $is_ps_ready}
     <div class="panel col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
         <div class="panel-heading">
-            {l s='Change colors, typography and your logo position' mod='ps_themecusto'}
+            {l s='Cambia los colores, la tipografía y la posición de tu logotipo.' mod='ps_themecusto'}
         </div>
         <div class="row">
             <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1">
@@ -25,18 +25,18 @@
             </div>
             <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
                 <p>
-                    {l s='Use the Theme configurator module to customize the main graphic elements of your website : colors, buttons, typography, logo position.' mod='ps_themecusto'}:<br/>
+                    {l s='Utilice el módulo configurador de temas para personalizar los elementos gráficos principales de su sitio web: colores, botones, tipografía, posición del logotipo.' mod='ps_themecusto'}:<br/>
                 </p>
             </div>
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
-                <a href="{$themeConfiguratorUrl}" class="btn btn-primary btn-lg btn-block" rel="noopener">{l s='Configure' mod='ps_themecusto'}</a>
+                <a href="{$themeConfiguratorUrl}" class="btn btn-primary btn-lg btn-block" rel="noopener">{l s='Configurar' mod='ps_themecusto'}</a>
             </div>
         </div>
     </div>
     {/if}
     <div class="panel col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
         <div class="panel-heading">
-            {l s='Main theme modules cartography' mod='ps_themecusto'}
+            {l s='Tema principal de los módulos de la cartografía.' mod='ps_themecusto'}
         </div>
         <div class="row">
             <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
@@ -71,7 +71,7 @@
                                             </div>
                                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-4 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 general-action">
                                                 <a class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-radius-right btn btn-primary-reverse btn-outline-primary light-button" href="{$page.url}">
-                                                    {l s='Configure' mod='ps_themecusto'}
+                                                    {l s='Configuracion' mod='ps_themecusto'}
                                                 </a>
                                             </div>
                                         </div>
@@ -109,14 +109,14 @@
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-11">
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <b>{l s='There is no module for this section' mod='ps_themecusto'}</b>
+                                        <b>{l s='No hay módulo para esta sección.' mod='ps_themecusto'}</b>
                                     </div>
                                     <div class="col-lg-8 col-md-8 col-sm-8 col-xs-7 description">
-                                        {l s='You can install a module for this section from our Modules Selection' mod='ps_themecusto'}
+                                        {l s='Puede instalar un módulo para esta sección desde nuestra Selección de módulos' mod='ps_themecusto'}
                                     </div>
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-4 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 general-action">
                                         <a class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-radius-right btn btn-primary-reverse btn-outline-primary light-button" href="{$selectionModulePage}" >
-                                            {l s='See modules selection' mod='ps_themecusto'}
+                                            {l s='Ver selección de módulos.' mod='ps_themecusto'}
                                         </a>
                                     </div>
                                 </div>
@@ -127,7 +127,7 @@
                 {/foreach}
                 <div class="row">
                     <div class="col-lg-4 col-lg-offset-8">
-                        <a class="btn btn-primary btn-lg btn-block" href="{$installedModulePage}#theme_modules">{l s='See all theme\'s modules' mod='ps_themecusto'}</a>
+                        <a class="btn btn-primary btn-lg btn-block" href="{$installedModulePage}#theme_modules">{l s='Ver todos los módulos del tema' mod='ps_themecusto'}</a>
                     </div>
                 </div>
             </div>

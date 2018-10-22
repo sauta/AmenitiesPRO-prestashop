@@ -55,7 +55,7 @@
 				<span class="data_label size_l">
 					<a href="{$link->getAdminLink('AdminCarts')|escape:'html':'UTF-8'}">{l s='Active Shopping Carts' d='Modules.Dashactivity.Admin'}</a>
 					<small class="text-muted"><br/>
-						{l s='in the last %d minutes' sprintf=$DASHACTIVITY_CART_ACTIVE|intval d='Modules.Dashactivity.Admin'}
+						{l s='en los ultimos %d minutos' sprintf=$DASHACTIVITY_CART_ACTIVE|intval d='Modules.Dashactivity.Admin'}
 					</small>
 				</span>
 				<span class="data_value size_xxl">
@@ -65,7 +65,7 @@
 		</ul>
 	</section>
 	<section id="dash_pending" class="loading">
-		<header><i class="icon-time"></i> {l s='Currently Pending' d='Modules.Dashactivity.Admin'}</header>
+		<header><i class="icon-time"></i> {l s='Actualmente pendiente' d='Modules.Dashactivity.Admin'}</header>
 		<ul class="data_list">
 			<li>
 				<span class="data_label"><a href="{$link->getAdminLink('AdminOrders')|escape:'html':'UTF-8'}">{l s='Orders' d='Admin.Global'}</a></span>

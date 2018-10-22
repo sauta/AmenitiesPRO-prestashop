@@ -19,15 +19,15 @@
         <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9 no-padding general-action" data-module_name="{$module.name}" data-action="{$module.url_active }" data-module_displayname="{$module.displayName}">
             {if $module.url_active == 'configure'}
             <a class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-radius-right btn btn-primary-reverse btn-outline-primary light-button module_action_menu_{$module.url_active}" href="{$module.actions_url.configure}">
-                {l s='Configure' mod='ps_themecusto'}
+                {l s='Configurar' mod='ps_themecusto'}
             </a>
             {elseif $module.url_active == 'disable' }
             <button type="button" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-radius-right btn btn-primary-reverse btn-outline-primary light-button module_action_menu_{$module.url_active}" data-confirm_modal="module-modal-confirm-{$module.name}-{$module.url_active}" data-toggle="modal" data-target="#moduleActionModal">
-                {l s='Disable' mod='ps_themecusto'}
+                {l s='Inhabilitar' mod='ps_themecusto'}
             </button>
             {else}
             <button type="button" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-radius-right btn btn-primary-reverse btn-outline-primary light-button module_action_menu_{$module.url_active}" data-confirm_modal="module-modal-confirm-{$module.name}-{$module.url_active}" >
-                {l s='Enable' mod='ps_themecusto'}
+                {l s='Habilitar' mod='ps_themecusto'}
             </button>
             {/if}
         </div>
@@ -54,29 +54,29 @@
                         {if $action eq 'uninstall' || $action eq 'disable' || $action eq 'reset'}
                         <button type="button" class="dropdown-item module_action_menu_{$action}" data-confirm_modal="module-modal-confirm-{$module.name}-{$action}" data-toggle="modal" data-target="#moduleActionModal">
                             {if $action eq 'uninstall'}
-                                {l s='Uninstall' mod='ps_themecusto'}
+                                {l s='Desintalar' mod='ps_themecusto'}
                             {elseif $action eq 'disable'}
-                                {l s='Disable' mod='ps_themecusto'}
+                                {l s='Inhabilitar' mod='ps_themecusto'}
                             {elseif $action eq 'reset'}
-                                {l s='Reset' mod='ps_themecusto'}
+                                {l s='Resetear' mod='ps_themecusto'}
                             {/if}
                         </button>
                         {else if $action eq 'configure'}
                         <a class="dropdown-item module_action_menu_configure" href="{$module.actions_url.configure}">
-                            {l s='Configure' mod='ps_themecusto'}
+                            {l s='Configurar' mod='ps_themecusto'}
                         </a>
                         {else}
                             {if $action eq 'enable'}
                                 <button type="button" class="dropdown-item module_action_menu_{$action}">
-                                    {l s='Enable' mod='ps_themecusto'}
+                                    {l s='Habilitar' mod='ps_themecusto'}
                                 </button>
                             {elseif ($module.enable_mobile eq 7 || $module.enable_mobile eq 1 || $module.enable_mobile eq 0) && $action eq 'disable_mobile'}
                                 <button type="button" class="dropdown-item module_action_menu_{$action}">
-                                    {l s='Disable mobile' mod='ps_themecusto'}
+                                    {l s='Deshabilitar móvil' mod='ps_themecusto'}
                                 </button>
                             {elseif ($module.enable_mobile eq 3 || $module.enable_mobile eq 0) && $action eq 'enable_mobile'}
                                 <button type="button" class="dropdown-item module_action_menu_{$action}">
-                                    {l s='Enable mobile' mod='ps_themecusto'}
+                                    {l s='Habilitar móvil' mod='ps_themecusto'}
                                 </button>
                             {/if}
                         {/if}
@@ -88,7 +88,7 @@
     {else}
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-padding general-action" data-module_name="{$module.name}" data-action="{$module.url_active }" data-module_displayname="{$module.displayName}">
             <button type="button" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-radius-right btn btn-primary-reverse btn-outline-primary light-button module_action_menu_{$module.url_active}" data-confirm_modal="module-modal-confirm-{$module.name}-{$module.url_active}" >
-                {l s='Install' mod='ps_themecusto'}
+                {l s='Instar' mod='ps_themecusto'}
             </button>
         </div>
     {/if}

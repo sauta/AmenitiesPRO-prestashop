@@ -50,7 +50,7 @@
 			
 			<div align="right">
 				<button type="submit" value="1" id="webpay_updateSettings" name="webpay_updateSettings" class="btn btn-info pull-right">
-					<i class="process-icon-save" value="{l s='Save Settings' mod='webpay'}"></i> Guardar
+					<i class="process-icon-save" value="{l s='Guardar ajustes' mod='webpay'}"></i> Guardar
 				</button>
 			</div>
 			

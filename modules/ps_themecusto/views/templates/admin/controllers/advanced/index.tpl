@@ -16,17 +16,17 @@
 <div id="psthemecusto">
     <div class="panel col-lg-12">
         <div class="panel-heading">
-            {l s='Advanced Customization' mod='ps_themecusto'}
+            {l s='Personalización avanzada' mod='ps_themecusto'}
         </div>
         <div class="row">
             <div class="col-ld-12">
-                <p>{l s='You can edit your theme sheet by using the Parent/Child theme feature' mod='ps_themecusto'}:</p>
+                <p>{l s='Puede editar su hoja de tema usando la función de tema Padre/hijo' mod='ps_themecusto'}:</p>
             </div>
             {if $is_ps_ready}
             <div class="alert alert-warning" role="alert">
-                <b>{l s='Advanced use only.' mod='ps_themecusto'}</b>
+                <b>{l s='Sólo uso avanzado.' mod='ps_themecusto'}</b>
                 <p class="alert-text">
-                    {l s='Support team might not be able to assist you on issues created by your own child theme.' mod='ps_themecusto'}
+                    {l s='Es posible que el equipo de soporte no pueda asistirlo en los problemas creados por el tema de su propio hijo.' mod='ps_themecusto'}
                 </p>
             </div>
             {/if}
@@ -35,9 +35,9 @@
                     <div class="col-lg-12 center-img">
                         <img src="{$images}download.png"/>
                     </div>
-                    <b>1 - {l s='Download your current theme' mod='ps_themecusto'}</b>
+                    <b>1 - {l s='Descarga tu tema actual' mod='ps_themecusto'}</b>
                     <div class="col-lg-12">
-                        <p>{l s='You picked a theme but still want to bring some specific adjustments? Get a child theme, it will allow you to keep the parts you want and customize the others!' mod='ps_themecusto'}</p>
+                        <p>{l s='¿Escogiste un tema pero aún quieres traer algunos ajustes específicos? Obtenga un tema infantil, le permitirá conservar las partes que desea y personalizar las otras.' mod='ps_themecusto'}</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-lg-push-1">

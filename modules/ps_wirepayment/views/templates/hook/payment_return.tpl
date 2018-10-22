@@ -25,21 +25,21 @@
 
 {if $status == 'ok'}
     <p>
-      {l s='Your order on %s is complete.' sprintf=[$shop_name] d='Modules.Wirepayment.Shop'}<br/>
-      {l s='Please send us a bank wire with:' d='Modules.Wirepayment.Shop'}
+      {l s='Su pedido en %s está completo.' sprintf=[$shop_name] d='Modules.Wirepayment.Shop'}<br/>
+      {l s='Por favor envíenos una transferencia bancaria con:' d='Modules.Wirepayment.Shop'}
     </p>
     {include file='module:ps_wirepayment/views/templates/hook/_partials/payment_infos.tpl'}
 
     <p>
-      {l s='Please specify your order reference %s in the bankwire description.' sprintf=[$reference] d='Modules.Wirepayment.Shop'}<br/>
+      {l s='Por favor, especifique su referencia de pedido% s en la descripción de bankwire.' sprintf=[$reference] d='Modules.Wirepayment.Shop'}<br/>
       {l s='We\'ve also sent you this information by e-mail.' d='Modules.Wirepayment.Shop'}
     </p>
-    <strong>{l s='Your order will be sent as soon as we receive payment.' d='Modules.Wirepayment.Shop'}</strong>
+    <strong>{l s='Su pedido será enviado tan pronto como recibamos el pago.' d='Modules.Wirepayment.Shop'}</strong>
     <p>
-      {l s='If you have questions, comments or concerns, please contact our [1]expert customer support team[/1].' d='Modules.Wirepayment.Shop' sprintf=['[1]' => "<a href='{$contact_url}'>", '[/1]' => '</a>']}
+      {l s='Si tiene preguntas, comentarios o inquietudes, póngase en contacto con nuestro [1]experto equipo de soporte al cliente[/1].' d='Modules.Wirepayment.Shop' sprintf=['[1]' => "<a href='{$contact_url}'>", '[/1]' => '</a>']}
     </p>
 {else}
     <p class="warning">
-      {l s='We noticed a problem with your order. If you think this is an error, feel free to contact our [1]expert customer support team[/1].' d='Modules.Wirepayment.Shop' sprintf=['[1]' => "<a href='{$contact_url}'>", '[/1]' => '</a>']}
+      {l s='Notamos un problema con su pedido. Si cree que esto es un error, no dude en ponerse en contacto con nuestro[1]eexperto equipo de soporte al cliente[/1].' d='Modules.Wirepayment.Shop' sprintf=['[1]' => "<a href='{$contact_url}'>", '[/1]' => '</a>']}
     </p>
 {/if}

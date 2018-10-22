@@ -28,16 +28,16 @@
     <div class="panel">
         <div class="panel-heading">
             <i class="icon-cogs"></i>
-            {l s='Legal content management' d='Modules.Legalcompliance.Admin'}
+            {l s='Gestión de contenidos legales.' d='Modules.Legalcompliance.Admin'}
         </div>
         <p>
-            {l s='Your country\'s legislation may require you to communicate some specific legal information to your customers.' d='Modules.Legalcompliance.Admin'}
+            {l s='La legislación de su país puede requerir que comunique cierta información legal específica a sus clientes.' d='Modules.Legalcompliance.Admin'}
         </p>
         <p>
-            {l s='The Legal Compliance module provides the means to indicate legally required informations to your customer, using static pages (some created on purpose by the module). It is your responsibility to fill in the corresponding pages with the required content.' d='Modules.Legalcompliance.Admin'}
+            {l s='El módulo de Cumplimiento Legal proporciona los medios para indicar información legalmente requerida a su cliente, utilizando páginas estáticas (algunas creadas a propósito por el módulo). Es su responsabilidad completar las páginas correspondientes con el contenido requerido.' d='Modules.Legalcompliance.Admin'}
         </p>
         <p>
-            {l s='For each of the topics below, first indicate which of your Pages contains the required information:' d='Modules.Legalcompliance.Admin'}
+            {l s='Para cada uno de los temas a continuación, primero indique cuál de sus Páginas contiene la información requerida:' d='Modules.Legalcompliance.Admin'}
         </p>
         <br/>
         <div class="form-wrapper">
@@ -62,10 +62,10 @@
         </div>
         <div class="panel-footer">
             <button type="submit" class="btn btn-default pull-right">
-                <i class="process-icon-save"></i>  {l s='Save' d='Admin.Actions'}
+                <i class="process-icon-save"></i>  {l s='Guardar' d='Admin.Actions'}
             </button>
             <a href="{$add_cms_link}" class="btn btn-default">
-                <i class="process-icon-plus"></i> {l s='Add new Page' d='Modules.Legalcompliance.Admin'}
+                <i class="process-icon-plus"></i> {l s='Aañadir nueva página' d='Modules.Legalcompliance.Admin'}
             </a>
         </div>
 

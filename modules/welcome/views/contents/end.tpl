@@ -26,25 +26,25 @@ International Registered Trademark & Property of PrestaShop SA
 <div id="onboarding-welcome" class="modal-body">
     <div class="col-12">
         <button class="onboarding-button-next pull-right close" type="button">&times;</button>
-        <h2 class="text-center text-md-center">{l s='Over to you!' d='Modules.Welcome.Admin'}</h2>
+        <h2 class="text-center text-md-center">{l s='¡Por encima de ti!' d='Modules.Welcome.Admin'}</h2>
     </div>
     <div class="col-12">
         <p class="text-center text-md-center">
-          {l s='You\'ve seen the essential, but there\'s a lot more to explore.' d='Modules.Welcome.Admin'}<br />
-          {l s='Some ressources can help you go further:' d='Modules.Welcome.Admin'}
+          {l s='Has visto lo esencial, pero hay mucho más que explorar.' d='Modules.Welcome.Admin'}<br />
+          {l s='Algunos recursos pueden ayudarlo a ir más allá:' d='Modules.Welcome.Admin'}
         </p>
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-6  justify-content-center text-center text-md-center link-container">
               <a class="final-link" href="http://doc.prestashop.com/display/PS17/Getting+Started" target="_blank">
                 <div class="starter-guide"></div>
-                <span class="link">{l s='Starter Guide' d='Modules.Welcome.Admin'}</span>
+                <span class="link">{l s='Guia de inicio' d='Modules.Welcome.Admin'}</span>
               </a>
             </div>
             <div class="col-md-6 text-center text-md-center link-container">
               <a class="final-link" href="https://www.prestashop.com/forums/" target="_blank">
                 <div class="forum"></div>
-                <span class="link">{l s='Forum' d='Modules.Welcome.Admin'}</span>
+                <span class="link">{l s='Foro' d='Modules.Welcome.Admin'}</span>
               </a>
             </div>
           </div>
@@ -52,7 +52,7 @@ International Registered Trademark & Property of PrestaShop SA
             <div class="col-md-6 text-center text-md-center link-container">
               <a class="final-link" href="https://www.prestashop.com/en/training-prestashop" target="_blank">
                 <div class="training"></div>
-                <span class="link">{l s='Training' d='Modules.Welcome.Admin'}</span>
+                <span class="link">{l s='Formación' d='Modules.Welcome.Admin'}</span>
               </a>
             </div>
             <div class="col-md-6 text-center text-md-center link-container">
@@ -67,7 +67,7 @@ International Registered Trademark & Property of PrestaShop SA
     <div class="modal-footer">
         <div class="col-12">
             <div class="text-center text-md-center">
-                <button class="btn btn-primary onboarding-button-next">{l s='I\'m ready' d='Modules.Welcome.Admin'}</button>
+                <button class="btn btn-primary onboarding-button-next">{l s='Estoy listo :D' d='Modules.Welcome.Admin'}</button>
             </div>
         </div>
     </div>

@@ -23,4 +23,4 @@
  *  International Registered Trademark & Property of PrestaShop SA
  *}
 
- <h5 class="aeuc_scart"><a href="{$link_shopping_cart}">{l s='My shopping cart' d='Modules.Legalcompliance.Shop'}</a></h5>
+ <h5 class="aeuc_scart"><a href="{$link_shopping_cart}">{l s='Mi carrito de compras' d='Modules.Legalcompliance.Shop'}</a></h5>

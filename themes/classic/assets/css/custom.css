@@ -1,4 +1,53 @@
-/*
- * Custom code goes here.
- * A template should always ship with an empty custom.css
- */
+body {
+    font-family: 'Mali', cursive;
+}
+
+#footer .footer-container .col-md-12 {
+    margin-top: 20px;
+}
+
+.hover06 img {
+	-webkit-transform: rotate(15deg) scale(1.4);
+	transform: rotate(15deg) scale(1.1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover06:hover img {
+	-webkit-transform: rotate(0) scale(1);
+	transform: rotate(0) scale(1);
+}
+
+.hover12 {
+	background: #1abc9c;
+}
+.hover12 img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover12:hover img {
+	opacity: .5;
+}
+
+#products img, .featured-products img, .product-accessories img, .product-miniature img {
+    margin-left: 0;
+    width: 100%;
+}
+
+body#checkout #header .header-nav {
+    padding: 2rem 0 .9375rem;
+
+}
+
+body#checkout section.checkout-step .step-title {
+    text-align: center;
+}
+
+.block-category {
+    min-height: 0;
+    margin-bottom: 1.25rem;
+}
+
+#wrapper {
+    background: #fff;
+}
